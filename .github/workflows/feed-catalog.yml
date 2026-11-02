@@ -1,0 +1,51 @@
+name: Rebuild Discover feed catalog
+
+# Probes every candidate feed in tools/feed-catalog/sources.json and publishes
+# the live ones as discover/catalog.json on GitHub Pages. Skim fetches
+# https://gm2211.github.io/skim-support/discover/catalog.json at most once a day
+# and falls back to the copy bundled in the app.
+
+on:
+  schedule:
+    - cron: "17 6 * * 1" # Mondays 06:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - tools/feed-catalog/**
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-catalog
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Probe feeds and build the catalog
+        run: node tools/feed-catalog/build.mjs --out discover/catalog.json --report discover/report.json
+      - name: Refuse a thin catalog
+        # A network blip on the runner must not publish a half-empty directory.
+        run: |
+          node -e '
+            const c = require("./discover/catalog.json");
+            const feeds = c.topics.reduce((n, t) => n + t.feeds.length, 0);
+            console.log(`${c.topics.length} topics, ${feeds} feeds`);
+            if (c.topics.length < 12 || feeds < 200) process.exit(1);
+          '
+      - name: Publish
+        run: |
+          if git diff --quiet -- discover; then echo "No change"; exit 0; fi
+          git config user.name "skim-catalog-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add discover
+          git commit -m "Discover catalog: weekly rebuild"
+          git push

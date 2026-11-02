@@ -1,0 +1,2873 @@
+{
+ "version": 2,
+ "generatedAt": "2026-10-20T01:46:09.336Z",
+ "topics": [
+  {
+   "id": "tech",
+   "name": "Tech",
+   "feeds": [
+    {
+     "title": "The Verge",
+     "url": "https://www.theverge.com/rss/index.xml",
+     "site": "https://www.theverge.com",
+     "description": "Technology, science, art, and culture.",
+     "lastPost": "2026-10-19T22:30:42.000Z"
+    },
+    {
+     "title": "Ars Technica",
+     "url": "https://feeds.arstechnica.com/arstechnica/index",
+     "site": "https://arstechnica.com",
+     "description": "In-depth tech news, reviews, and analysis.",
+     "lastPost": "2026-10-19T22:44:26.000Z"
+    },
+    {
+     "title": "TechCrunch",
+     "url": "https://techcrunch.com/feed/",
+     "site": "https://techcrunch.com",
+     "description": "Startups, venture capital, and tech industry news.",
+     "lastPost": "2026-10-20T01:27:03.000Z"
+    },
+    {
+     "title": "Wired",
+     "url": "https://www.wired.com/feed/rss",
+     "site": "https://www.wired.com",
+     "description": "How technology is changing every aspect of our lives.",
+     "lastPost": "2026-10-19T20:55:15.000Z"
+    },
+    {
+     "title": "Engadget",
+     "url": "https://www.engadget.com/rss.xml",
+     "site": "https://www.engadget.com",
+     "description": "Gadgets and consumer electronics.",
+     "lastPost": "2026-10-20T00:30:00.000Z"
+    },
+    {
+     "title": "Hacker News",
+     "url": "https://news.ycombinator.com/rss",
+     "site": "https://news.ycombinator.com",
+     "description": "Front page links from Y Combinator's community.",
+     "lastPost": "2026-10-20T00:53:52.000Z"
+    },
+    {
+     "title": "The Register",
+     "url": "https://www.theregister.com/headlines.atom",
+     "site": "https://www.theregister.com",
+     "description": "Biting the hand that feeds IT.",
+     "lastPost": "2026-10-19T20:26:21.000Z"
+    },
+    {
+     "title": "404 Media",
+     "url": "https://www.404media.co/rss/",
+     "site": "https://www.404media.co",
+     "description": "Independent journalism on technology and its impact.",
+     "lastPost": "2026-10-19T21:40:42.000Z"
+    },
+    {
+     "title": "Platformer",
+     "url": "https://www.platformer.news/rss/",
+     "site": "https://www.platformer.news",
+     "description": "Casey Newton on big tech and democracy.",
+     "lastPost": "2026-10-15T00:52:13.000Z"
+    },
+    {
+     "title": "Rest of World",
+     "url": "https://restofworld.org/feed/latest",
+     "site": "https://restofworld.org",
+     "description": "Tech's impact beyond the Western bubble.",
+     "lastPost": "2026-10-19T10:00:00.000Z"
+    },
+    {
+     "title": "MIT Technology Review",
+     "url": "https://www.technologyreview.com/feed/",
+     "site": "https://www.technologyreview.com",
+     "description": "Emerging technology and its consequences.",
+     "lastPost": "2026-10-19T18:22:47.000Z"
+    },
+    {
+     "title": "Techmeme",
+     "url": "https://www.techmeme.com/feed.xml",
+     "site": "https://www.techmeme.com",
+     "description": "The day's essential tech news, on one page.",
+     "lastPost": "2026-10-20T01:45:01.000Z"
+    },
+    {
+     "title": "Hackaday",
+     "url": "https://hackaday.com/blog/feed/",
+     "site": "https://hackaday.com",
+     "description": "Fresh hacks every day.",
+     "lastPost": "2026-10-19T23:00:30.000Z"
+    },
+    {
+     "title": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/feeds/all",
+     "site": "https://www.tomshardware.com",
+     "description": "PC hardware news and reviews.",
+     "lastPost": "2026-10-19T16:30:39.000Z"
+    },
+    {
+     "title": "Slashdot",
+     "url": "https://rss.slashdot.org/Slashdot/slashdotMain",
+     "site": "https://slashdot.org",
+     "description": "News for nerds.",
+     "lastPost": "2026-10-19T23:00:00.000Z"
+    },
+    {
+     "title": "Ars Technica: Gadgets",
+     "url": "https://arstechnica.com/gadgets/feed/",
+     "site": "https://arstechnica.com/gadgets/",
+     "description": "Hardware and gadget coverage from Ars.",
+     "lastPost": "2026-10-19T18:30:56.000Z"
+    },
+    {
+     "title": "Lifehacker",
+     "url": "https://lifehacker.com/rss",
+     "site": "https://lifehacker.com",
+     "description": "Do everything better.",
+     "lastPost": "2026-10-19T21:41:40.000Z"
+    },
+    {
+     "title": "Mashable",
+     "url": "http://feeds.mashable.com/Mashable",
+     "site": "http://feeds.mashable.com",
+     "description": "Mashable is a leading source for news, information & resources for the Connected Generation.",
+     "lastPost": "2026-10-20T00:35:57.000Z"
+    },
+    {
+     "title": "The Register: Security",
+     "url": "https://www.theregister.com/headlines.rss",
+     "site": "https://www.theregister.com",
+     "description": "Articles from www.theregister.com",
+     "lastPost": "2026-10-19T20:26:21.000Z"
+    },
+    {
+     "title": "Gizmodo",
+     "url": "https://gizmodo.com/rss",
+     "site": "https://gizmodo.com",
+     "description": "The Future Is Here",
+     "lastPost": "2026-10-20T00:26:01.000Z"
+    },
+    {
+     "title": "NYT: Technology",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+     "site": "https://rss.nytimes.com",
+     "description": "",
+     "lastPost": "2026-10-19T22:12:02.000Z"
+    },
+    {
+     "title": "ReadWrite",
+     "url": "https://readwrite.com/feed/",
+     "site": "https://readwrite.com",
+     "description": "Crypto, Gaming & Emerging Tech News",
+     "lastPost": "2026-10-18T19:00:00.000Z"
+    },
+    {
+     "title": "Google: The Keyword",
+     "url": "https://www.blog.google/rss/",
+     "site": "https://www.blog.google",
+     "description": "The Keyword",
+     "lastPost": "2026-10-19T20:15:00.000Z"
+    },
+    {
+     "title": "CNET",
+     "url": "https://www.cnet.com/rss/news/",
+     "site": "https://www.cnet.com",
+     "description": "CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of…",
+     "lastPost": "2026-10-20T00:40:15.000Z"
+    },
+    {
+     "title": "Linus Tech Tips",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+     "site": "https://www.youtube.com",
+     "description": "",
+     "lastPost": "2026-10-19T16:59:28.000Z"
+    },
+    {
+     "title": "Stratechery",
+     "url": "http://stratechery.com/feed/",
+     "site": "http://stratechery.com",
+     "description": "On the business, strategy, and impact of technology.",
+     "lastPost": "2026-10-19T10:00:00.000Z"
+    },
+    {
+     "title": "The Next Web",
+     "url": "https://thenextweb.com/feed/",
+     "site": "https://thenextweb.com",
+     "description": "Original and proudly opinionated perspectives for Generation T",
+     "lastPost": "2026-10-19T18:45:15.000Z"
+    },
+    {
+     "title": "Marques Brownlee",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+     "site": "https://www.youtube.com",
+     "description": "",
+     "lastPost": "2026-10-17T02:09:23.000Z"
+    }
+   ]
+  },
+  {
+   "id": "programming",
+   "name": "Programming",
+   "feeds": [
+    {
+     "title": "Lobsters",
+     "url": "https://lobste.rs/rss",
+     "site": "https://lobste.rs",
+     "description": "A computing-focused link aggregator.",
+     "lastPost": "2026-10-20T00:41:18.000Z"
+    },
+    {
+     "title": "Hacker News: Best",
+     "url": "https://hnrss.org/best",
+     "site": "https://news.ycombinator.com/best",
+     "description": "The highest-voted recent Hacker News stories.",
+     "lastPost": "2026-10-19T17:27:11.000Z"
+    },
+    {
+     "title": "Simon Willison",
+     "url": "https://simonwillison.net/atom/everything/",
+     "site": "https://simonwillison.net",
+     "description": "Notes on LLMs, Python, Datasette, and the web.",
+     "lastPost": "2026-10-19T23:58:25.000Z"
+    },
+    {
+     "title": "Julia Evans",
+     "url": "https://jvns.ca/atom.xml",
+     "site": "https://jvns.ca",
+     "description": "Friendly explanations of how computers work.",
+     "lastPost": "2026-09-27T00:00:00.000Z"
+    },
+    {
+     "title": "Martin Fowler",
+     "url": "https://martinfowler.com/feed.atom",
+     "site": "https://martinfowler.com",
+     "description": "Software design, architecture, and agile delivery.",
+     "lastPost": "2026-10-15T13:25:00.000Z"
+    },
+    {
+     "title": "The GitHub Blog",
+     "url": "https://github.blog/feed/",
+     "site": "https://github.blog",
+     "description": "Updates, ideas, and engineering from GitHub.",
+     "lastPost": "2026-10-19T18:47:22.000Z"
+    },
+    {
+     "title": "This Week in Rust",
+     "url": "https://this-week-in-rust.org/rss.xml",
+     "site": "https://this-week-in-rust.org",
+     "description": "Weekly Rust community news.",
+     "lastPost": "2026-10-14T04:00:00.000Z"
+    },
+    {
+     "title": "Hacker News: Front Page",
+     "url": "https://hnrss.org/frontpage",
+     "site": "https://news.ycombinator.com",
+     "description": "What's on the Hacker News front page right now.",
+     "lastPost": "2026-10-20T00:53:52.000Z"
+    },
+    {
+     "title": "Dan Luu",
+     "url": "https://danluu.com/atom.xml",
+     "site": "https://danluu.com",
+     "description": "Long, data-heavy essays on software and hardware.",
+     "lastPost": "2026-09-18T00:00:00.000Z"
+    },
+    {
+     "title": "Eli Bendersky",
+     "url": "https://eli.thegreenplace.net/feeds/all.atom.xml",
+     "site": "https://eli.thegreenplace.net",
+     "description": "Go, compilers, and programming deep dives.",
+     "lastPost": "2026-10-18T01:18:00.000Z"
+    },
+    {
+     "title": "Mitchell Hashimoto",
+     "url": "https://mitchellh.com/feed.xml",
+     "site": "https://mitchellh.com",
+     "description": "Notes from the creator of Ghostty and Terraform.",
+     "lastPost": "2026-10-06T00:00:00.000Z"
+    },
+    {
+     "title": "Xe Iaso",
+     "url": "https://xeiaso.net/blog.rss",
+     "site": "https://xeiaso.net",
+     "description": "Systems, Nix, and the craft of programming.",
+     "lastPost": "2026-10-14T00:00:00.000Z"
+    },
+    {
+     "title": "Jeff Geerling",
+     "url": "https://www.jeffgeerling.com/blog.xml",
+     "site": "https://www.jeffgeerling.com",
+     "description": "Raspberry Pi, Ansible, and homelab projects.",
+     "lastPost": "2026-10-14T13:00:00.000Z"
+    },
+    {
+     "title": "The Pragmatic Engineer",
+     "url": "https://newsletter.pragmaticengineer.com/feed",
+     "site": "https://newsletter.pragmaticengineer.com",
+     "description": "Big tech and startups, from the inside.",
+     "lastPost": "2026-10-15T16:55:18.000Z"
+    },
+    {
+     "title": "matklad",
+     "url": "https://matklad.github.io/feed.xml",
+     "site": "https://matklad.github.io",
+     "description": "Rust, Zig, and software design.",
+     "lastPost": "2026-10-07T00:00:00.000Z"
+    },
+    {
+     "title": "fasterthanlime",
+     "url": "https://fasterthanli.me/index.xml",
+     "site": "https://fasterthanli.me",
+     "description": "Long-form Rust and systems explorations.",
+     "lastPost": "2025-12-31T22:00:00.000Z"
+    },
+    {
+     "title": "The Go Blog",
+     "url": "https://go.dev/blog/feed.atom",
+     "site": "https://go.dev/blog/",
+     "description": "News from the Go team.",
+     "lastPost": "2026-10-16T00:00:00.000Z"
+    },
+    {
+     "title": "Rust Blog",
+     "url": "https://blog.rust-lang.org/feed.xml",
+     "site": "https://blog.rust-lang.org",
+     "description": "Releases and news from the Rust project.",
+     "lastPost": "2026-10-15T00:00:00.000Z"
+    },
+    {
+     "title": "Python Insider",
+     "url": "https://blog.python.org/feeds/posts/default?alt=rss",
+     "site": "https://blog.python.org",
+     "description": "News from the Python core team.",
+     "lastPost": "2026-10-13T00:00:00.000Z"
+    },
+    {
+     "title": "The Cloudflare Blog",
+     "url": "https://blog.cloudflare.com/rss/",
+     "site": "https://blog.cloudflare.com",
+     "description": "Networking, security, and performance engineering.",
+     "lastPost": "2026-10-19T19:12:53.000Z"
+    },
+    {
+     "title": "Netflix TechBlog",
+     "url": "https://netflixtechblog.com/feed",
+     "site": "https://netflixtechblog.com",
+     "description": "Engineering at Netflix.",
+     "lastPost": "2026-10-16T16:01:02.000Z"
+    },
+    {
+     "title": "Hillel Wayne",
+     "url": "https://buttondown.com/hillelwayne/rss",
+     "site": "https://buttondown.com/hillelwayne",
+     "description": "Formal methods, history, and software engineering.",
+     "lastPost": "2026-09-30T13:27:03.000Z"
+    },
+    {
+     "title": "Josh W. Comeau",
+     "url": "https://www.joshwcomeau.com/rss.xml",
+     "site": "https://www.joshwcomeau.com",
+     "description": "Interactive CSS and React tutorials.",
+     "lastPost": "2026-07-06T13:15:00.000Z"
+    },
+    {
+     "title": "LWN.net",
+     "url": "https://lwn.net/headlines/rss",
+     "site": "https://lwn.net",
+     "description": "Linux and free software news.",
+     "lastPost": "2026-10-19T19:04:55.000Z"
+    },
+    {
+     "title": "Daniel Stenberg",
+     "url": "https://daniel.haxx.se/blog/feed/",
+     "site": "https://daniel.haxx.se/blog/",
+     "description": "The curl maintainer's blog.",
+     "lastPost": "2026-10-15T17:47:00.000Z"
+    },
+    {
+     "title": "Brendan Gregg",
+     "url": "https://www.brendangregg.com/blog/rss.xml",
+     "site": "https://www.brendangregg.com",
+     "description": "Systems performance and observability.",
+     "lastPost": "2026-02-06T13:00:00.000Z"
+    },
+    {
+     "title": "Armin Ronacher",
+     "url": "https://lucumr.pocoo.org/feed.atom",
+     "site": "https://lucumr.pocoo.org",
+     "description": "Python, Rust, and open source.",
+     "lastPost": "2026-10-06T00:00:00.000Z"
+    },
+    {
+     "title": "Ned Batchelder",
+     "url": "https://nedbatchelder.com/blog/rss.xml",
+     "site": "https://nedbatchelder.com/blog/",
+     "description": "Python and the craft of software.",
+     "lastPost": "2026-10-11T12:25:12.000Z"
+    },
+    {
+     "title": "Jake Archibald",
+     "url": "https://jakearchibald.com/posts.rss",
+     "site": "https://jakearchibald.com",
+     "description": "The web platform, explained.",
+     "lastPost": "2026-10-15T01:00:00.000Z"
+    },
+    {
+     "title": "Smashing Magazine",
+     "url": "https://www.smashingmagazine.com/feed/",
+     "site": "https://www.smashingmagazine.com",
+     "description": "Web design and development techniques.",
+     "lastPost": "2026-10-16T10:00:00.000Z"
+    },
+    {
+     "title": "Drew DeVault",
+     "url": "https://drewdevault.com/blog/index.xml",
+     "site": "https://drewdevault.com",
+     "description": "Free software and systems programming.",
+     "lastPost": "2026-09-23T00:00:00.000Z"
+    },
+    {
+     "title": "Scripting News",
+     "url": "http://scripting.com/rss.xml",
+     "site": "http://scripting.com",
+     "description": "Dave Winer, OG blogger, podcaster, developed first apps in many categories.",
+     "lastPost": "2026-10-20T00:55:02.000Z"
+    },
+    {
+     "title": "Stack Overflow Blog",
+     "url": "https://stackoverflow.blog/feed/",
+     "site": "https://stackoverflow.blog",
+     "description": "Essays, opinions, and advice on the act of computer programming from Stack Overflow.",
+     "lastPost": "2026-10-19T15:32:01.000Z"
+    },
+    {
+     "title": "r/programming",
+     "url": "https://www.reddit.com/r/programming/.rss",
+     "site": "https://www.reddit.com",
+     "description": "Computer Programming",
+     "lastPost": "2026-10-20T00:17:03.000Z"
+    },
+    {
+     "title": "GitLab",
+     "url": "https://about.gitlab.com/atom.xml",
+     "site": "https://about.gitlab.com",
+     "description": "GitLab Blog RSS feed",
+     "lastPost": "2026-10-19T00:00:00.000Z"
+    },
+    {
+     "title": "InfoQ",
+     "url": "https://feed.infoq.com",
+     "site": "https://feed.infoq.com",
+     "description": "InfoQ feed",
+     "lastPost": "2026-10-19T20:00:00.000Z"
+    },
+    {
+     "title": "The JetBrains Blog",
+     "url": "https://blog.jetbrains.com/feed",
+     "site": "https://blog.jetbrains.com",
+     "description": "Developer Tools for Professionals and Teams",
+     "lastPost": "2026-10-19T11:57:55.000Z"
+    },
+    {
+     "title": "Engineering at Meta",
+     "url": "https://engineering.fb.com/feed/",
+     "site": "https://engineering.fb.com",
+     "description": "Engineering at Meta Blog",
+     "lastPost": "2026-10-19T16:00:47.000Z"
+    },
+    {
+     "title": "The Airbnb Tech Blog",
+     "url": "https://medium.com/feed/airbnb-engineering",
+     "site": "https://medium.com",
+     "description": "Creative engineers and data scientists building a world where you can belong anywhere. http://airbnb.io - Medium",
+     "lastPost": "2026-10-13T17:01:02.000Z"
+    },
+    {
+     "title": "Coding Horror",
+     "url": "https://feeds.feedburner.com/codinghorror",
+     "site": "https://feeds.feedburner.com",
+     "description": "programming and human factors",
+     "lastPost": "2026-09-25T20:54:04.000Z"
+    },
+    {
+     "title": "Etsy: Code as Craft",
+     "url": "https://codeascraft.com/feed/atom/",
+     "site": "https://codeascraft.com",
+     "description": "The engineers who make Etsy make our living with a craft we love: software.",
+     "lastPost": "2026-09-29T13:25:10.000Z"
+    },
+    {
+     "title": "Engineering at Slack",
+     "url": "https://slack.engineering/feed",
+     "site": "https://slack.engineering",
+     "description": "Hear directly from Slack's engineers about what we build, why and how we build it, and how you can use it.",
+     "lastPost": "2026-07-14T16:10:08.000Z"
+    },
+    {
+     "title": "Scott Hanselman's Blog",
+     "url": "http://feeds.hanselman.com/ScottHanselman",
+     "site": "http://feeds.hanselman.com",
+     "description": "Scott Hanselman on Programming, User Experience, The Zen of Computers and Life in General",
+     "lastPost": "2026-08-27T15:25:48.000Z"
+    },
+    {
+     "title": "SoundCloud Backstage Blog",
+     "url": "https://developers.soundcloud.com/blog/blog.rss",
+     "site": "https://developers.soundcloud.com",
+     "description": "SoundCloud's developer blog.",
+     "lastPost": "2026-08-11T00:00:00.000Z"
+    },
+    {
+     "title": "overreacted",
+     "url": "https://overreacted.io/rss.xml",
+     "site": "https://overreacted.io",
+     "description": "A blog by Dan Abramov",
+     "lastPost": "2026-09-18T00:00:00.000Z"
+    },
+    {
+     "title": "A List Apart",
+     "url": "https://alistapart.com/main/feed/",
+     "site": "https://alistapart.com",
+     "description": "Articles for people who make web sites.",
+     "lastPost": "2026-06-30T16:22:27.000Z"
+    },
+    {
+     "title": "CSS-Tricks",
+     "url": "https://css-tricks.com/feed/",
+     "site": "https://css-tricks.com",
+     "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets.",
+     "lastPost": "2026-08-31T15:12:19.000Z"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "name": "AI",
+   "feeds": [
+    {
+     "title": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/feed.xml",
+     "site": "https://huggingface.co/blog",
+     "description": "Open models, datasets, and machine learning tools.",
+     "lastPost": "2026-10-19T00:00:00.000Z"
+    },
+    {
+     "title": "Import AI",
+     "url": "https://importai.substack.com/feed",
+     "site": "https://importai.substack.com",
+     "description": "Jack Clark's weekly newsletter on AI research and policy.",
+     "lastPost": "2026-10-19T12:31:37.000Z"
+    },
+    {
+     "title": "Google AI",
+     "url": "https://blog.google/technology/ai/rss/",
+     "site": "https://blog.google/technology/ai/",
+     "description": "AI news and research from Google.",
+     "lastPost": "2026-10-13T16:00:00.000Z"
+    },
+    {
+     "title": "MIT Technology Review: AI",
+     "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+     "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
+     "description": "Reporting on artificial intelligence.",
+     "lastPost": "2026-10-19T18:22:47.000Z"
+    },
+    {
+     "title": "The Gradient",
+     "url": "https://thegradient.pub/rss/",
+     "site": "https://thegradient.pub",
+     "description": "Essays and perspectives on AI research.",
+     "lastPost": "2026-02-18T23:25:52.000Z"
+    },
+    {
+     "title": "Simon Willison",
+     "url": "https://simonwillison.net/atom/everything/",
+     "site": "https://simonwillison.net",
+     "description": "Notes on LLMs, Python, Datasette, and the web.",
+     "lastPost": "2026-10-19T23:58:25.000Z"
+    },
+    {
+     "title": "OpenAI News",
+     "url": "https://openai.com/news/rss.xml",
+     "site": "https://openai.com/news/",
+     "description": "Research and product news from OpenAI.",
+     "lastPost": "2026-10-19T12:00:00.000Z"
+    },
+    {
+     "title": "Google DeepMind",
+     "url": "https://deepmind.google/blog/rss.xml",
+     "site": "https://deepmind.google/discover/blog/",
+     "description": "Research from Google DeepMind.",
+     "lastPost": "2026-10-15T16:08:03.000Z"
+    },
+    {
+     "title": "Ahead of AI",
+     "url": "https://magazine.sebastianraschka.com/feed",
+     "site": "https://magazine.sebastianraschka.com",
+     "description": "Sebastian Raschka on LLM research.",
+     "lastPost": "2026-09-29T10:50:25.000Z"
+    },
+    {
+     "title": "Lil'Log",
+     "url": "https://lilianweng.github.io/index.xml",
+     "site": "https://lilianweng.github.io",
+     "description": "Lilian Weng's deep dives on ML.",
+     "lastPost": "2026-07-04T00:00:00.000Z"
+    },
+    {
+     "title": "Interconnects",
+     "url": "https://www.interconnects.ai/feed",
+     "site": "https://www.interconnects.ai",
+     "description": "Nathan Lambert on open models and RLHF.",
+     "lastPost": "2026-10-17T14:06:54.000Z"
+    },
+    {
+     "title": "Latent Space",
+     "url": "https://www.latent.space/feed",
+     "site": "https://www.latent.space",
+     "description": "The AI engineer newsletter.",
+     "lastPost": "2026-10-17T07:47:38.000Z"
+    },
+    {
+     "title": "One Useful Thing",
+     "url": "https://www.oneusefulthing.org/feed",
+     "site": "https://www.oneusefulthing.org",
+     "description": "Ethan Mollick on using AI at work and school.",
+     "lastPost": "2026-10-01T10:54:12.000Z"
+    },
+    {
+     "title": "Marcus on AI",
+     "url": "https://garymarcus.substack.com/feed",
+     "site": "https://garymarcus.substack.com",
+     "description": "A skeptic's take on AI hype.",
+     "lastPost": "2026-10-15T01:32:36.000Z"
+    },
+    {
+     "title": "Google Research",
+     "url": "https://research.google/blog/rss/",
+     "site": "https://research.google/blog/",
+     "description": "Research across Google.",
+     "lastPost": "2026-10-16T18:11:34.000Z"
+    },
+    {
+     "title": "Ars Technica: AI",
+     "url": "https://arstechnica.com/ai/feed/",
+     "site": "https://arstechnica.com/ai/",
+     "description": "AI news and analysis from Ars.",
+     "lastPost": "2026-10-19T20:21:53.000Z"
+    },
+    {
+     "title": "The Verge: AI",
+     "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+     "site": "https://www.theverge.com/ai-artificial-intelligence",
+     "description": "AI coverage from The Verge.",
+     "lastPost": "2026-10-19T21:48:01.000Z"
+    },
+    {
+     "title": "Microsoft Research",
+     "url": "https://www.microsoft.com/en-us/research/feed/",
+     "site": "https://www.microsoft.com/en-us/research/",
+     "description": "Research from Microsoft.",
+     "lastPost": "2026-10-15T16:00:00.000Z"
+    },
+    {
+     "title": "BAIR Blog",
+     "url": "https://bair.berkeley.edu/blog/feed.xml",
+     "site": "https://bair.berkeley.edu/blog/",
+     "description": "Berkeley AI Research.",
+     "lastPost": "2026-07-29T09:00:00.000Z"
+    },
+    {
+     "title": "Andrej Karpathy",
+     "url": "https://karpathy.bearblog.dev/feed/",
+     "site": "https://karpathy.bearblog.dev",
+     "description": "Andrej Karpathy's blog.",
+     "lastPost": "2026-04-30T16:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "security",
+   "name": "Security",
+   "feeds": [
+    {
+     "title": "Krebs on Security",
+     "url": "https://krebsonsecurity.com/feed/",
+     "site": "https://krebsonsecurity.com",
+     "description": "In-depth security news and investigation.",
+     "lastPost": "2026-10-19T13:48:56.000Z"
+    },
+    {
+     "title": "Schneier on Security",
+     "url": "https://www.schneier.com/feed/atom/",
+     "site": "https://www.schneier.com",
+     "description": "Bruce Schneier on security and society.",
+     "lastPost": "2026-10-19T11:07:43.000Z"
+    },
+    {
+     "title": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/feed/",
+     "site": "https://www.bleepingcomputer.com",
+     "description": "Security and malware news.",
+     "lastPost": "2026-10-19T21:49:48.000Z"
+    },
+    {
+     "title": "Troy Hunt",
+     "url": "https://www.troyhunt.com/rss/",
+     "site": "https://www.troyhunt.com",
+     "description": "Data breaches and web security.",
+     "lastPost": "2026-10-19T06:47:58.000Z"
+    },
+    {
+     "title": "Project Zero",
+     "url": "https://googleprojectzero.blogspot.com/feeds/posts/default",
+     "site": "https://googleprojectzero.blogspot.com",
+     "description": "Vulnerability research from Google.",
+     "lastPost": "2026-10-06T07:00:00.000Z"
+    },
+    {
+     "title": "Ars Technica: Security",
+     "url": "https://arstechnica.com/security/feed/",
+     "site": "https://arstechnica.com/security/",
+     "description": "Security coverage from Ars.",
+     "lastPost": "2026-10-19T19:39:19.000Z"
+    },
+    {
+     "title": "The Hacker News",
+     "url": "https://feeds.feedburner.com/TheHackersNews",
+     "site": "https://thehackernews.com",
+     "description": "Cybersecurity news.",
+     "lastPost": "2026-10-19T17:32:13.000Z"
+    },
+    {
+     "title": "Dark Reading",
+     "url": "https://www.darkreading.com/rss.xml",
+     "site": "https://www.darkreading.com",
+     "description": "Enterprise security news.",
+     "lastPost": "2026-10-19T21:13:41.000Z"
+    },
+    {
+     "title": "The Register: Security",
+     "url": "http://www.theregister.co.uk/security/headlines.atom",
+     "site": "http://www.theregister.co.uk",
+     "description": "Articles from www.theregister.com",
+     "lastPost": "2026-10-20T00:11:10.000Z"
+    },
+    {
+     "title": "ZDNET: Security",
+     "url": "https://www.zdnet.com/topic/security/rss.xml",
+     "site": "https://www.zdnet.com",
+     "description": "Most recent news",
+     "lastPost": "2026-10-19T16:59:56.000Z"
+    },
+    {
+     "title": "TechCrunch: Cybersecurity",
+     "url": "https://techcrunch.com/tag/cybersecurity/feed/",
+     "site": "https://techcrunch.com",
+     "description": "Startup and Technology News",
+     "lastPost": "2026-10-15T10:00:00.000Z"
+    },
+    {
+     "title": "Security Affairs",
+     "url": "http://securityaffairs.co/wordpress/feed",
+     "site": "http://securityaffairs.co",
+     "description": "Read, think, share … Security is everyone's responsibility",
+     "lastPost": "2026-10-19T18:43:26.000Z"
+    },
+    {
+     "title": "Darknet",
+     "url": "http://feeds.feedburner.com/darknethackers",
+     "site": "http://feeds.feedburner.com",
+     "description": "Darknet is your best source for the latest hacking tools, hacker news, cyber security best practices, ethical…",
+     "lastPost": "2026-10-19T18:58:47.000Z"
+    }
+   ]
+  },
+  {
+   "id": "apple",
+   "name": "Apple",
+   "feeds": [
+    {
+     "title": "Daring Fireball",
+     "url": "https://daringfireball.net/feeds/main",
+     "site": "https://daringfireball.net",
+     "description": "John Gruber on Apple, technology, and design.",
+     "lastPost": "2026-10-20T01:12:26.000Z"
+    },
+    {
+     "title": "MacRumors",
+     "url": "https://feeds.macrumors.com/MacRumors-All",
+     "site": "https://www.macrumors.com",
+     "description": "Apple news and rumors.",
+     "lastPost": "2026-10-19T23:51:05.000Z"
+    },
+    {
+     "title": "9to5Mac",
+     "url": "https://9to5mac.com/feed/",
+     "site": "https://9to5mac.com",
+     "description": "Apple news, reviews, and how-tos.",
+     "lastPost": "2026-10-20T00:01:33.000Z"
+    },
+    {
+     "title": "Six Colors",
+     "url": "https://sixcolors.com/feed/",
+     "site": "https://sixcolors.com",
+     "description": "Jason Snell and Dan Moren on Apple and technology.",
+     "lastPost": "2026-10-19T23:15:13.000Z"
+    },
+    {
+     "title": "Apple Newsroom",
+     "url": "https://www.apple.com/newsroom/rss-feed.rss",
+     "site": "https://www.apple.com/newsroom/",
+     "description": "Official news from Apple.",
+     "lastPost": "2026-10-15T12:59:28.566Z"
+    },
+    {
+     "title": "Michael Tsai",
+     "url": "https://mjtsai.com/blog/feed/",
+     "site": "https://mjtsai.com/blog/",
+     "description": "Mac and iOS development news, linked and quoted.",
+     "lastPost": "2026-10-19T21:08:39.000Z"
+    },
+    {
+     "title": "MacStories",
+     "url": "https://www.macstories.net/feed/",
+     "site": "https://www.macstories.net",
+     "description": "Apple apps, automation, and reviews.",
+     "lastPost": "2026-10-19T16:48:41.000Z"
+    },
+    {
+     "title": "AppleInsider",
+     "url": "https://appleinsider.com/rss/news/",
+     "site": "https://appleinsider.com",
+     "description": "Apple news and rumors.",
+     "lastPost": "2026-10-19T21:37:09.000Z"
+    },
+    {
+     "title": "The Eclectic Light Company",
+     "url": "https://eclecticlight.co/feed/",
+     "site": "https://eclecticlight.co",
+     "description": "How macOS really works.",
+     "lastPost": "2026-10-19T11:30:00.000Z"
+    },
+    {
+     "title": "Swift by Sundell",
+     "url": "https://www.swiftbysundell.com/rss",
+     "site": "https://www.swiftbysundell.com",
+     "description": "Swift tips and articles.",
+     "lastPost": "2026-09-30T11:20:00.000Z"
+    },
+    {
+     "title": "Hacking with Swift",
+     "url": "https://www.hackingwithswift.com/articles/rss",
+     "site": "https://www.hackingwithswift.com",
+     "description": "Swift and SwiftUI tutorials.",
+     "lastPost": "2026-05-15T18:17:32.000Z"
+    },
+    {
+     "title": "Swift.org",
+     "url": "https://www.swift.org/atom.xml",
+     "site": "https://www.swift.org/blog/",
+     "description": "News from the Swift project.",
+     "lastPost": "2026-10-08T17:00:00.000Z"
+    },
+    {
+     "title": "The Loop",
+     "url": "https://www.loopinsight.com/feed/",
+     "site": "https://www.loopinsight.com",
+     "description": "Apple news with opinion.",
+     "lastPost": "2026-09-25T13:47:08.000Z"
+    },
+    {
+     "title": "Cult of Mac",
+     "url": "https://www.cultofmac.com/feed",
+     "site": "https://www.cultofmac.com",
+     "description": "Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.",
+     "lastPost": "2026-10-19T17:30:23.000Z"
+    },
+    {
+     "title": "Macworld",
+     "url": "https://www.macworld.com/index.rss",
+     "site": "https://www.macworld.com",
+     "description": "Macworld is your best source for all things Apple.",
+     "lastPost": "2026-10-19T18:58:21.000Z"
+    },
+    {
+     "title": "OS X Daily",
+     "url": "http://feeds.feedburner.com/osxdaily",
+     "site": "http://feeds.feedburner.com",
+     "description": "News, tips, software, reviews, and more for Mac OS X, iPhone, iPad",
+     "lastPost": "2026-10-19T21:48:45.000Z"
+    },
+    {
+     "title": "Apple Developer News",
+     "url": "https://developer.apple.com/news/rss/news.rss",
+     "site": "https://developer.apple.com",
+     "description": "",
+     "lastPost": "2026-10-16T20:05:42.000Z"
+    },
+    {
+     "title": "Joe Fabisevich",
+     "url": "https://www.fabisevi.ch/feed.xml",
+     "site": "https://www.fabisevi.ch",
+     "description": "The personal website of the one and only Joe Fabisevich, and indie developer building Red Panda Club Inc.",
+     "lastPost": "2026-09-24T00:00:00.000Z"
+    },
+    {
+     "title": "inessential.com",
+     "url": "https://inessential.com/xml/rss.xml",
+     "site": "https://inessential.com",
+     "description": "Brent Simmons's weblog.",
+     "lastPost": "2026-09-22T18:35:22.000Z"
+    },
+    {
+     "title": "Marco.org",
+     "url": "https://marco.org/rss",
+     "site": "https://marco.org",
+     "description": "I’m Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast.",
+     "lastPost": "2026-09-04T19:46:01.000Z"
+    },
+    {
+     "title": "Alberto De Bortoli",
+     "url": "https://albertodebortoli.com/rss/",
+     "site": "https://albertodebortoli.com",
+     "description": "Principal Software Engineer @ Just Eat Takeaway, London.",
+     "lastPost": "2026-09-15T13:29:34.000Z"
+    },
+    {
+     "title": "Bruno Rocha",
+     "url": "https://swiftrocks.com/rss.xml",
+     "site": "https://swiftrocks.com",
+     "description": "SwiftRocks is Bruno Rocha's blog about Swift / iOS and the software engineering industry.",
+     "lastPost": "2026-08-09T07:00:26.000Z"
+    }
+   ]
+  },
+  {
+   "id": "android",
+   "name": "Android",
+   "feeds": [
+    {
+     "title": "Android Police",
+     "url": "https://www.androidpolice.com/feed/",
+     "site": "https://www.androidpolice.com",
+     "description": "Android news and reviews.",
+     "lastPost": "2026-10-19T23:00:10.000Z"
+    },
+    {
+     "title": "9to5Google",
+     "url": "https://9to5google.com/feed/",
+     "site": "https://9to5google.com",
+     "description": "Google and Android news.",
+     "lastPost": "2026-10-19T22:54:46.000Z"
+    },
+    {
+     "title": "Android Authority",
+     "url": "https://www.androidauthority.com/feed/",
+     "site": "https://www.androidauthority.com",
+     "description": "Android news and reviews.",
+     "lastPost": "2026-10-19T21:14:40.000Z"
+    },
+    {
+     "title": "Android Developers Blog",
+     "url": "https://android-developers.googleblog.com/feeds/posts/default",
+     "site": "https://android-developers.googleblog.com",
+     "description": "News from the Android team.",
+     "lastPost": "2026-10-19T00:00:00.000Z"
+    },
+    {
+     "title": "Android Central",
+     "url": "http://feeds.androidcentral.com/androidcentral",
+     "site": "http://feeds.androidcentral.com",
+     "description": "All the latest content from the Android Central team",
+     "lastPost": "2026-10-19T18:32:26.000Z"
+    },
+    {
+     "title": "TalkAndroid",
+     "url": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+     "site": "http://feeds.feedburner.com",
+     "description": "The latest in android news, rumours, and updates, including device news and apps!",
+     "lastPost": "2026-10-19T15:00:00.000Z"
+    },
+    {
+     "title": "Droid Life",
+     "url": "https://www.droid-life.com/feed",
+     "site": "https://www.droid-life.com",
+     "description": "Opinionated Android news.",
+     "lastPost": "2026-10-19T22:37:02.000Z"
+    },
+    {
+     "title": "ProAndroidDev",
+     "url": "https://proandroiddev.com/feed",
+     "site": "https://proandroiddev.com",
+     "description": "The latest posts from Android Professionals and Google Developer Experts. - Medium",
+     "lastPost": "2026-10-18T19:56:04.000Z"
+    },
+    {
+     "title": "Google: Android",
+     "url": "https://blog.google/products/android/rss",
+     "site": "https://blog.google",
+     "description": "Android",
+     "lastPost": "2026-10-15T16:00:00.000Z"
+    },
+    {
+     "title": "Dan Lew Codes",
+     "url": "https://blog.danlew.net/rss/",
+     "site": "https://blog.danlew.net",
+     "description": "Thoughts on life, the universe and the mystery of it all; but actually mostly just code.",
+     "lastPost": "2026-09-15T13:16:49.000Z"
+    },
+    {
+     "title": "Jake Wharton",
+     "url": "https://jakewharton.com/atom.xml",
+     "site": "https://jakewharton.com",
+     "description": "",
+     "lastPost": "2026-08-26T00:00:00.000Z"
+    },
+    {
+     "title": "Public Object",
+     "url": "https://publicobject.com/rss/",
+     "site": "https://publicobject.com",
+     "description": "Jesse Wilson on programming.",
+     "lastPost": "2026-09-14T04:31:02.000Z"
+    },
+    {
+     "title": "Zac Sweers",
+     "url": "https://www.zacsweers.dev/rss/",
+     "site": "https://www.zacsweers.dev",
+     "description": "Musings on Kotlin, mobile, open source, and building good things.",
+     "lastPost": "2026-06-29T05:54:30.000Z"
+    }
+   ]
+  },
+  {
+   "id": "science",
+   "name": "Science",
+   "feeds": [
+    {
+     "title": "Quanta Magazine",
+     "url": "https://www.quantamagazine.org/feed/",
+     "site": "https://www.quantamagazine.org",
+     "description": "Mathematics, physics, biology, and computer science.",
+     "lastPost": "2026-10-19T15:40:26.000Z"
+    },
+    {
+     "title": "Nature",
+     "url": "https://www.nature.com/nature.rss",
+     "site": "https://www.nature.com",
+     "description": "The international journal of science.",
+     "lastPost": "2026-10-19T00:00:00.000Z"
+    },
+    {
+     "title": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/rss/all.xml",
+     "site": "https://www.sciencedaily.com",
+     "description": "Breaking science news from research institutions.",
+     "lastPost": "2026-10-19T13:09:18.000Z"
+    },
+    {
+     "title": "New Scientist",
+     "url": "https://www.newscientist.com/feed/home/",
+     "site": "https://www.newscientist.com",
+     "description": "Science and technology news.",
+     "lastPost": "2026-10-19T19:00:00.000Z"
+    },
+    {
+     "title": "Scientific American",
+     "url": "http://rss.sciam.com/ScientificAmerican-Global",
+     "site": "https://www.scientificamerican.com",
+     "description": "Science news and ideas.",
+     "lastPost": "2026-10-19T22:30:00.000Z"
+    },
+    {
+     "title": "Phys.org",
+     "url": "https://phys.org/rss-feed/",
+     "site": "https://phys.org",
+     "description": "Daily physics and science news.",
+     "lastPost": "2026-10-20T01:40:01.000Z"
+    },
+    {
+     "title": "Ars Technica: Science",
+     "url": "https://arstechnica.com/science/feed/",
+     "site": "https://arstechnica.com/science/",
+     "description": "Science coverage from Ars.",
+     "lastPost": "2026-10-19T20:54:17.000Z"
+    },
+    {
+     "title": "Knowable Magazine",
+     "url": "https://knowablemagazine.org/rss",
+     "site": "https://knowablemagazine.org",
+     "description": "Science explained by experts.",
+     "lastPost": "2026-10-14T00:00:14.000Z"
+    },
+    {
+     "title": "Aeon",
+     "url": "https://aeon.co/feed.rss",
+     "site": "https://aeon.co",
+     "description": "Essays on science, philosophy and culture.",
+     "lastPost": "2026-10-19T10:01:00.000Z"
+    },
+    {
+     "title": "Nautilus",
+     "url": "https://nautil.us/feed/",
+     "site": "https://nautil.us",
+     "description": "Science connected to culture.",
+     "lastPost": "2026-10-19T23:00:00.000Z"
+    },
+    {
+     "title": "Popular Science",
+     "url": "https://www.popsci.com/arcio/rss/",
+     "site": "https://www.popsci.com",
+     "description": "Awe-inspiring science reporting, technology news, and DIY projects.",
+     "lastPost": "2026-10-19T19:57:03.000Z"
+    },
+    {
+     "title": "BBC News: Science",
+     "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+     "site": "http://feeds.bbci.co.uk",
+     "description": "BBC News - Science & Environment",
+     "lastPost": "2026-10-19T23:08:25.000Z"
+    },
+    {
+     "title": "NYT: Science",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+     "site": "https://rss.nytimes.com",
+     "description": "",
+     "lastPost": "2026-10-20T00:24:26.000Z"
+    },
+    {
+     "title": "Wired: Science",
+     "url": "https://www.wired.com/feed/category/science/latest/rss",
+     "site": "https://www.wired.com",
+     "description": "Channel Description",
+     "lastPost": "2026-10-19T18:45:06.000Z"
+    },
+    {
+     "title": "FlowingData",
+     "url": "https://flowingdata.com/feed",
+     "site": "https://flowingdata.com",
+     "description": "Strength in Numbers",
+     "lastPost": "2026-10-19T10:02:56.000Z"
+    },
+    {
+     "title": "Gizmodo: Science",
+     "url": "https://gizmodo.com/tag/science/rss",
+     "site": "https://gizmodo.com",
+     "description": "The Future Is Here",
+     "lastPost": "2026-06-29T19:10:23.000Z"
+    }
+   ]
+  },
+  {
+   "id": "space",
+   "name": "Space",
+   "feeds": [
+    {
+     "title": "NASA",
+     "url": "https://www.nasa.gov/feed/",
+     "site": "https://www.nasa.gov",
+     "description": "News and features from NASA.",
+     "lastPost": "2026-10-20T01:21:38.000Z"
+    },
+    {
+     "title": "Space.com",
+     "url": "https://www.space.com/feeds/all",
+     "site": "https://www.space.com",
+     "description": "Space exploration, astronomy, and skywatching.",
+     "lastPost": "2026-10-19T22:00:00.000Z"
+    },
+    {
+     "title": "SpaceNews",
+     "url": "https://spacenews.com/feed/",
+     "site": "https://spacenews.com",
+     "description": "The space industry and space policy.",
+     "lastPost": "2026-10-19T16:31:12.000Z"
+    },
+    {
+     "title": "The Planetary Society",
+     "url": "https://www.planetary.org/rss/articles",
+     "site": "https://www.planetary.org",
+     "description": "Planetary science and space advocacy.",
+     "lastPost": "2026-10-16T14:30:00.000Z"
+    },
+    {
+     "title": "ESA",
+     "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+     "site": "https://www.esa.int",
+     "description": "News from the European Space Agency.",
+     "lastPost": "2026-10-19T12:00:00.000Z"
+    },
+    {
+     "title": "NASASpaceflight",
+     "url": "https://www.nasaspaceflight.com/feed/",
+     "site": "https://www.nasaspaceflight.com",
+     "description": "Launch and spaceflight news.",
+     "lastPost": "2026-10-19T15:44:41.000Z"
+    },
+    {
+     "title": "Universe Today",
+     "url": "https://www.universetoday.com/feed/",
+     "site": "https://www.universetoday.com",
+     "description": "Space and astronomy news.",
+     "lastPost": "2026-10-19T22:09:34.000Z"
+    },
+    {
+     "title": "Centauri Dreams",
+     "url": "https://www.centauri-dreams.org/feed/",
+     "site": "https://www.centauri-dreams.org",
+     "description": "Deep-space exploration research.",
+     "lastPost": "2026-10-14T17:17:57.000Z"
+    },
+    {
+     "title": "Payload",
+     "url": "https://payloadspace.com/feed/",
+     "site": "https://payloadspace.com",
+     "description": "The business of space.",
+     "lastPost": "2026-10-19T13:00:00.000Z"
+    },
+    {
+     "title": "Ars Technica: Space",
+     "url": "https://arstechnica.com/space/feed/",
+     "site": "https://arstechnica.com/space/",
+     "description": "Space coverage from Ars.",
+     "lastPost": "2026-10-19T20:54:17.000Z"
+    },
+    {
+     "title": "The Guardian: Space",
+     "url": "https://www.theguardian.com/science/space/rss",
+     "site": "https://www.theguardian.com",
+     "description": "Latest news and features from theguardian.com, the world's leading liberal voice",
+     "lastPost": "2026-10-19T23:37:57.000Z"
+    },
+    {
+     "title": "New Scientist - Space",
+     "url": "https://www.newscientist.com/subject/space/feed/",
+     "site": "https://www.newscientist.com",
+     "description": "New Scientist - Space",
+     "lastPost": "2026-10-19T08:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "climate",
+   "name": "Climate & nature",
+   "feeds": [
+    {
+     "title": "Inside Climate News",
+     "url": "https://insideclimatenews.org/feed/",
+     "site": "https://insideclimatenews.org",
+     "description": "Pulitzer-winning climate journalism.",
+     "lastPost": "2026-10-19T21:58:25.000Z"
+    },
+    {
+     "title": "Carbon Brief",
+     "url": "https://www.carbonbrief.org/feed/",
+     "site": "https://www.carbonbrief.org",
+     "description": "Climate science and policy, clearly explained.",
+     "lastPost": "2026-10-16T11:54:59.000Z"
+    },
+    {
+     "title": "Grist",
+     "url": "https://grist.org/feed/",
+     "site": "https://grist.org",
+     "description": "Climate, justice, and solutions.",
+     "lastPost": "2026-10-19T08:45:00.000Z"
+    },
+    {
+     "title": "Canary Media",
+     "url": "https://www.canarymedia.com/rss.rss",
+     "site": "https://www.canarymedia.com",
+     "description": "The clean energy transition.",
+     "lastPost": "2026-10-19T16:00:00.000Z"
+    },
+    {
+     "title": "Good Good Good",
+     "url": "https://www.goodgoodgood.co/articles/rss.xml",
+     "site": "https://www.goodgoodgood.co",
+     "description": "At Good Good Good we help you feel more hopeful and do more good.",
+     "lastPost": "2026-10-19T19:27:00.000Z"
+    },
+    {
+     "title": "Nature",
+     "url": "http://feeds.nature.com/nature/rss/current?x=1",
+     "site": "http://feeds.nature.com",
+     "description": "Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature…",
+     "lastPost": "2026-10-19T00:00:00.000Z"
+    },
+    {
+     "title": "NYT: Climate and Environment",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
+     "site": "https://rss.nytimes.com",
+     "description": "",
+     "lastPost": "2026-10-19T18:04:15.000Z"
+    },
+    {
+     "title": "The Guardian: Environment",
+     "url": "https://www.theguardian.com/us/environment/rss",
+     "site": "https://www.theguardian.com",
+     "description": "Latest environmental news, opinion and analysis from the Guardian.",
+     "lastPost": "2026-10-19T23:17:12.000Z"
+    },
+    {
+     "title": "The Conversation: Environment",
+     "url": "https://theconversation.com/au/environment/articles.atom",
+     "site": "https://theconversation.com",
+     "description": "",
+     "lastPost": "2026-10-20T01:09:17.000Z"
+    },
+    {
+     "title": "The Guardian: Wildlife",
+     "url": "https://www.theguardian.com/environment/wildlife/rss",
+     "site": "https://www.theguardian.com",
+     "description": "Latest news and features from theguardian.com, the world's leading liberal voice",
+     "lastPost": "2026-10-19T23:17:12.000Z"
+    },
+    {
+     "title": "BBC Earth",
+     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwmZiChSryoWQCZMIQezgTg",
+     "site": "https://www.youtube.com",
+     "description": "",
+     "lastPost": "2026-10-16T15:15:38.000Z"
+    },
+    {
+     "title": "Nature on PBS",
+     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcBp_9YPyma4c3HTadmRJ3Q",
+     "site": "https://www.youtube.com",
+     "description": "",
+     "lastPost": "2026-10-19T14:00:39.000Z"
+    },
+    {
+     "title": "Times of India: Environment",
+     "url": "https://timesofindia.indiatimes.com/rssfeeds/2647163.cms",
+     "site": "https://timesofindia.indiatimes.com",
+     "description": "World news on global warming, climate change, wildlife, pollution, carbon business and climate politics.",
+     "lastPost": "2026-10-16T06:38:19.000Z"
+    },
+    {
+     "title": "NPR Topics: Environment",
+     "url": "https://feeds.npr.org/1025/rss.xml",
+     "site": "https://feeds.npr.org",
+     "description": "Breaking news on the environment, climate change, pollution, and endangered species.",
+     "lastPost": "2026-10-19T21:18:36.000Z"
+    },
+    {
+     "title": "Nature Canada",
+     "url": "https://naturecanada.ca/category/news/blog/feed/",
+     "site": "https://naturecanada.ca",
+     "description": "Your voice for nature!",
+     "lastPost": "2026-10-13T13:56:49.000Z"
+    },
+    {
+     "title": "Prakati India",
+     "url": "https://www.prakati.in/feed/",
+     "site": "https://www.prakati.in",
+     "description": "Eco Friendly Natural Organic Sustainable Living",
+     "lastPost": "2026-10-16T02:44:39.000Z"
+    },
+    {
+     "title": "PBS Nature: Blog",
+     "url": "https://www.pbs.org/wnet/nature/blog/feed/",
+     "site": "https://www.pbs.org",
+     "description": "The premiere natural history program on television.",
+     "lastPost": "2026-10-19T14:43:52.000Z"
+    },
+    {
+     "title": "Reflections of the Natural World",
+     "url": "https://reflectionsofthenaturalworld.com/feed/",
+     "site": "https://reflectionsofthenaturalworld.com",
+     "description": "Travel with me as I explore the wild things and wild places of our planet. - Jim Gain",
+     "lastPost": "2026-10-19T14:00:00.000Z"
+    },
+    {
+     "title": "Mark Avery",
+     "url": "https://markavery.info/blog/feed/",
+     "site": "https://markavery.info",
+     "description": "Standing up for Nature",
+     "lastPost": "2026-10-19T04:45:55.000Z"
+    },
+    {
+     "title": "Active Wild",
+     "url": "https://www.activewild.com/feed/",
+     "site": "https://www.activewild.com",
+     "description": "Animals, Science & Nature – Facts, News, Information & Pictures",
+     "lastPost": "2026-10-12T11:04:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": "news",
+   "name": "World news",
+   "feeds": [
+    {
+     "title": "BBC News: World",
+     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "site": "https://www.bbc.com/news/world",
+     "description": "International news from the BBC.",
+     "lastPost": "2026-10-20T01:24:59.000Z"
+    },
+    {
+     "title": "NPR News",
+     "url": "https://feeds.npr.org/1001/rss.xml",
+     "site": "https://www.npr.org",
+     "description": "Top stories from NPR.",
+     "lastPost": "2026-10-19T21:56:37.000Z"
+    },
+    {
+     "title": "The Guardian: World",
+     "url": "https://www.theguardian.com/world/rss",
+     "site": "https://www.theguardian.com/world",
+     "description": "World news from The Guardian.",
+     "lastPost": "2026-10-20T01:23:07.000Z"
+    },
+    {
+     "title": "Al Jazeera",
+     "url": "https://www.aljazeera.com/xml/rss/all.xml",
+     "site": "https://www.aljazeera.com",
+     "description": "News from around the world.",
+     "lastPost": "2026-10-20T01:05:31.000Z"
+    },
+    {
+     "title": "The New York Times",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+     "site": "https://www.nytimes.com",
+     "description": "Top stories from the Times home page.",
+     "lastPost": "2026-10-20T01:22:57.000Z"
+    },
+    {
+     "title": "Deutsche Welle",
+     "url": "https://rss.dw.com/rdf/rss-en-all",
+     "site": "https://www.dw.com/en/",
+     "description": "German international news, in English.",
+     "lastPost": "2026-10-20T00:32:00.000Z"
+    },
+    {
+     "title": "France 24",
+     "url": "https://www.france24.com/en/rss",
+     "site": "https://www.france24.com/en/",
+     "description": "International news from France.",
+     "lastPost": "2026-10-20T01:29:41.000Z"
+    },
+    {
+     "title": "The Atlantic",
+     "url": "https://www.theatlantic.com/feed/all/",
+     "site": "https://www.theatlantic.com",
+     "description": "Ideas, politics, and culture.",
+     "lastPost": "2026-10-19T22:06:00.000Z"
+    },
+    {
+     "title": "ProPublica",
+     "url": "https://feeds.propublica.org/propublica/main",
+     "site": "https://www.propublica.org",
+     "description": "Investigative journalism in the public interest.",
+     "lastPost": "2026-10-19T20:15:00.000Z"
+    },
+    {
+     "title": "NYT: World News",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+     "site": "https://rss.nytimes.com",
+     "description": "",
+     "lastPost": "2026-10-20T01:00:18.000Z"
+    },
+    {
+     "title": "Google News: Top Stories",
+     "url": "https://news.google.com/rss",
+     "site": "https://news.google.com",
+     "description": "Google News",
+     "lastPost": "2026-10-19T23:21:01.000Z"
+    },
+    {
+     "title": "CNBC: International",
+     "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+     "site": "https://www.cnbc.com",
+     "description": "CNBC International is the world leader for news on business, technology, China, trade, oil prices, the Middle East…",
+     "lastPost": "2026-10-20T01:38:41.000Z"
+    },
+    {
+     "title": "NDTV: World",
+     "url": "http://feeds.feedburner.com/ndtvnews-world-news",
+     "site": "http://feeds.feedburner.com",
+     "description": "NDTV.com provides the latest information from and in-depth coverage of India and the world.",
+     "lastPost": "2026-10-20T00:37:25.000Z"
+    },
+    {
+     "title": "Times of India: World",
+     "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+     "site": "https://timesofindia.indiatimes.com",
+     "description": "World News Today: Read the latest world news headlines, Current International breaking news world wide.",
+     "lastPost": "2026-10-19T22:28:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "name": "Business",
+   "feeds": [
+    {
+     "title": "Stratechery",
+     "url": "https://stratechery.com/feed/",
+     "site": "https://stratechery.com",
+     "description": "Ben Thompson on the strategy and business of technology.",
+     "lastPost": "2026-10-19T10:00:00.000Z"
+    },
+    {
+     "title": "The Economist: Latest",
+     "url": "https://www.economist.com/latest/rss.xml",
+     "site": "https://www.economist.com",
+     "description": "The latest from The Economist.",
+     "lastPost": "2026-10-19T20:06:00.000Z"
+    },
+    {
+     "title": "Marginal Revolution",
+     "url": "https://marginalrevolution.com/feed",
+     "site": "https://marginalrevolution.com",
+     "description": "Economics blog by Tyler Cowen and Alex Tabarrok.",
+     "lastPost": "2026-10-19T18:31:59.000Z"
+    },
+    {
+     "title": "Calculated Risk",
+     "url": "https://www.calculatedriskblog.com/feeds/posts/default",
+     "site": "https://www.calculatedriskblog.com",
+     "description": "Housing and economic data.",
+     "lastPost": "2026-01-12T13:21:00.005Z"
+    },
+    {
+     "title": "Noahpinion",
+     "url": "https://www.noahpinion.blog/feed",
+     "site": "https://www.noahpinion.blog",
+     "description": "Noah Smith on economics.",
+     "lastPost": "2026-10-19T04:33:30.000Z"
+    },
+    {
+     "title": "Apricitas Economics",
+     "url": "https://www.apricitas.io/feed",
+     "site": "https://www.apricitas.io",
+     "description": "Economics in charts.",
+     "lastPost": "2026-09-27T14:01:59.000Z"
+    },
+    {
+     "title": "Net Interest",
+     "url": "https://www.netinterest.co/feed",
+     "site": "https://www.netinterest.co",
+     "description": "Banks, markets and financial history.",
+     "lastPost": "2026-10-16T16:39:55.000Z"
+    },
+    {
+     "title": "CNBC: Top News",
+     "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+     "site": "https://www.cnbc.com",
+     "description": "Business and markets news.",
+     "lastPost": "2026-10-20T01:38:41.000Z"
+    },
+    {
+     "title": "Forbes: Business",
+     "url": "https://www.forbes.com/business/feed/",
+     "site": "https://www.forbes.com",
+     "description": "Forbes - Business",
+     "lastPost": "2026-10-19T23:12:10.000Z"
+    },
+    {
+     "title": "Investing.com News",
+     "url": "https://www.investing.com/rss/news.rss",
+     "site": "https://www.investing.com",
+     "description": "",
+     "lastPost": "2026-10-20T05:18:39.000Z"
+    },
+    {
+     "title": "Fortune",
+     "url": "https://fortune.com/feed",
+     "site": "https://fortune.com",
+     "description": "Fortune 500 Daily & Breaking Business News",
+     "lastPost": "2026-10-19T21:51:44.000Z"
+    },
+    {
+     "title": "Seeking Alpha",
+     "url": "https://seekingalpha.com/market_currents.xml",
+     "site": "https://seekingalpha.com",
+     "description": "© seekingalpha.com. Use of this feed is limited to personal, non-commercial use and is governed by Seeking Alpha's…",
+     "lastPost": "2026-10-20T00:25:39.000Z"
+    },
+    {
+     "title": "Economic Times",
+     "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
+     "site": "https://economictimes.indiatimes.com",
+     "description": "The Economic Times: Latest business, finance, markets, stocks, company news from India.",
+     "lastPost": "2026-10-20T01:31:55.000Z"
+    }
+   ]
+  },
+  {
+   "id": "startups",
+   "name": "Startups",
+   "feeds": [
+    {
+     "title": "Not Boring",
+     "url": "https://www.notboring.co/feed",
+     "site": "https://www.notboring.co",
+     "description": "Strategy and storytelling about tech companies.",
+     "lastPost": "2026-10-16T12:47:12.000Z"
+    },
+    {
+     "title": "Y Combinator Blog",
+     "url": "https://www.ycombinator.com/blog/rss/",
+     "site": "https://www.ycombinator.com/blog/",
+     "description": "News and essays from YC.",
+     "lastPost": "2026-10-19T18:58:11.000Z"
+    },
+    {
+     "title": "Product Hunt",
+     "url": "https://www.producthunt.com/feed",
+     "site": "https://www.producthunt.com",
+     "description": "",
+     "lastPost": "2026-10-19T04:20:15.000Z"
+    },
+    {
+     "title": "Inc.com",
+     "url": "https://www.inc.com/rss/",
+     "site": "https://www.inc.com",
+     "description": "Inc.com, the daily resource for entrepreneurs.",
+     "lastPost": "2026-10-20T01:04:16.000Z"
+    },
+    {
+     "title": "Hacker News: Front Page",
+     "url": "https://hnrss.org/frontpage",
+     "site": "https://hnrss.org",
+     "description": "Hacker News RSS",
+     "lastPost": "2026-10-20T00:53:52.000Z"
+    },
+    {
+     "title": "Entrepreneur",
+     "url": "http://feeds.feedburner.com/entrepreneur/latest",
+     "site": "http://feeds.feedburner.com",
+     "description": "The latest small business tips and advice from Entrepreneur",
+     "lastPost": "2026-10-19T19:30:00.000Z"
+    },
+    {
+     "title": "Small Business Trends",
+     "url": "https://feeds2.feedburner.com/SmallBusinessTrends",
+     "site": "https://feeds2.feedburner.com",
+     "description": "Founded in 2003, Small Business Trends is an award-winning online publication for small business owners,…",
+     "lastPost": "2026-10-19T23:31:00.000Z"
+    },
+    {
+     "title": "Steve Blank",
+     "url": "https://steveblank.com/feed/",
+     "site": "https://steveblank.com",
+     "description": "Innovation and Entrepreneurship",
+     "lastPost": "2026-10-19T13:00:20.000Z"
+    },
+    {
+     "title": "Feld Thoughts",
+     "url": "https://feld.com/feed",
+     "site": "https://feld.com",
+     "description": "Recent content on Feld Thoughts",
+     "lastPost": "2026-10-16T15:45:25.000Z"
+    },
+    {
+     "title": "Smart Passive Income",
+     "url": "http://feeds.feedburner.com/smartpassiveincome",
+     "site": "http://feeds.feedburner.com",
+     "description": "Become the entrepreneur you want to be",
+     "lastPost": "2026-09-30T20:15:20.000Z"
+    },
+    {
+     "title": "The Intercom Blog",
+     "url": "https://www.intercom.com/blog/feed",
+     "site": "https://www.intercom.com",
+     "description": "Articles and Podcasts on Customer Service, AI and Automation, Product, and more",
+     "lastPost": "2026-09-09T00:00:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "finance",
+   "name": "Personal finance",
+   "feeds": [
+    {
+     "title": "Money Saving Mom",
+     "url": "https://moneysavingmom.com/feed/",
+     "site": "https://moneysavingmom.com",
+     "description": "Saving Families Money Since 2007",
+     "lastPost": "2026-10-19T21:00:00.000Z"
+    },
+    {
+     "title": "Money Crashers",
+     "url": "https://www.moneycrashers.com/feed/",
+     "site": "https://www.moneycrashers.com",
+     "description": "Turn the Tables on Money",
+     "lastPost": "2026-10-20T01:30:00.000Z"
+    },
+    {
+     "title": "Kitces: Nerd's Eye View",
+     "url": "http://feeds.feedblitz.com/kitcesnerdseyeview&x=1",
+     "site": "http://feeds.feedblitz.com",
+     "description": "Commentary from Michael Kitces on Financial Planning News & Strategies",
+     "lastPost": "2026-10-19T11:03:55.000Z"
+    },
+    {
+     "title": "NerdWallet",
+     "url": "https://www.nerdwallet.com/blog/feed/",
+     "site": "https://www.nerdwallet.com",
+     "description": "NerdWallet is a free tool to find you the best credit cards, cd rates, savings, checking accounts, scholarships,…",
+     "lastPost": "2026-10-19T14:18:59.000Z"
+    },
+    {
+     "title": "SavingAdvice.com Blog",
+     "url": "https://www.savingadvice.com/feed/",
+     "site": "https://www.savingadvice.com",
+     "description": "SavingAdvice.com is a trusted personal finance community with expert articles on saving money, budgeting, debt…",
+     "lastPost": "2026-10-19T21:54:05.000Z"
+    },
+    {
+     "title": "Financial Samurai",
+     "url": "https://www.financialsamurai.com/feed/",
+     "site": "https://www.financialsamurai.com",
+     "description": "Slicing Through Money's Mysteries",
+     "lastPost": "2026-10-19T11:28:00.000Z"
+    },
+    {
+     "title": "Making Sense Of Cents",
+     "url": "https://www.makingsenseofcents.com/feed",
+     "site": "https://www.makingsenseofcents.com",
+     "description": "Learn how to make extra money, how to save money, how to start a blog, and more.",
+     "lastPost": "2026-10-19T11:10:00.000Z"
+    },
+    {
+     "title": "Oblivious Investor",
+     "url": "https://obliviousinvestor.com/feed/",
+     "site": "https://obliviousinvestor.com",
+     "description": "Low-Maintenance Investing with Index Funds and ETFs",
+     "lastPost": "2026-10-19T12:00:02.000Z"
+    },
+    {
+     "title": "The College Investor",
+     "url": "https://thecollegeinvestor.com/feed/",
+     "site": "https://thecollegeinvestor.com",
+     "description": "Navigating Money And Education",
+     "lastPost": "2026-10-19T19:59:16.000Z"
+    },
+    {
+     "title": "MoneyNing",
+     "url": "http://feeds.feedburner.com/MoneyNing",
+     "site": "http://feeds.feedburner.com",
+     "description": "Sharing insights since 2007 on carefully saving money, investing, frugal living, coupons, promo codes because the…",
+     "lastPost": "2026-10-19T16:00:04.000Z"
+    },
+    {
+     "title": "Wise Bread",
+     "url": "http://feeds.killeraces.com/wisebread",
+     "site": "http://feeds.killeraces.com",
+     "description": "Living large on a small budget",
+     "lastPost": "2026-10-09T23:34:43.000Z"
+    },
+    {
+     "title": "Well Kept Wallet",
+     "url": "https://wellkeptwallet.com/feed/",
+     "site": "https://wellkeptwallet.com",
+     "description": "Helping you save money, make money and pay off debt.",
+     "lastPost": "2026-09-20T16:27:21.000Z"
+    },
+    {
+     "title": "Budgets Are Sexy",
+     "url": "https://feeds2.feedburner.com/budgetsaresexy",
+     "site": "https://feeds2.feedburner.com",
+     "description": "Money | Minimalism | Mohawks",
+     "lastPost": "2026-09-14T09:05:24.000Z"
+    }
+   ]
+  },
+  {
+   "id": "crypto",
+   "name": "Crypto",
+   "feeds": [
+    {
+     "title": "Citation Needed",
+     "url": "https://www.citationneeded.news/rss/",
+     "site": "https://www.citationneeded.news",
+     "description": "Molly White's critical take on crypto and tech.",
+     "lastPost": "2026-10-16T15:43:31.000Z"
+    },
+    {
+     "title": "CryptoPotato",
+     "url": "https://cryptopotato.com/feed/",
+     "site": "https://cryptopotato.com",
+     "description": "",
+     "lastPost": "2026-10-19T20:55:00.000Z"
+    },
+    {
+     "title": "Cointelegraph",
+     "url": "https://cointelegraph.com/rss",
+     "site": "https://cointelegraph.com",
+     "description": "Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future…",
+     "lastPost": "2026-10-20T01:35:00.000Z"
+    },
+    {
+     "title": "Finance Magnates: Crypto",
+     "url": "https://www.financemagnates.com/cryptocurrency/feed/",
+     "site": "https://www.financemagnates.com",
+     "description": "",
+     "lastPost": "2026-10-19T09:44:43.000Z"
+    },
+    {
+     "title": "The Market's Compass Technical View",
+     "url": "https://themarketscompass.substack.com/feed",
+     "site": "https://themarketscompass.substack.com",
+     "description": "Using Technical Analysis to Navigate the Waters of the Global Financial Markets",
+     "lastPost": "2026-10-19T10:01:52.000Z"
+    },
+    {
+     "title": "Bitcoin News",
+     "url": "https://news.bitcoin.com/feed/",
+     "site": "https://news.bitcoin.com",
+     "description": "Daily Bitcoin News",
+     "lastPost": "2026-10-20T01:25:01.000Z"
+    },
+    {
+     "title": "CryptoNinjas",
+     "url": "https://www.cryptoninjas.net/feed/",
+     "site": "https://www.cryptoninjas.net",
+     "description": "Bitcoin, Cryptocurrency and Blockchain Asset Source",
+     "lastPost": "2026-10-19T02:07:41.000Z"
+    },
+    {
+     "title": "DailyCoin",
+     "url": "https://dailycoin.com/feed/",
+     "site": "https://dailycoin.com",
+     "description": "Cryptocurrency News",
+     "lastPost": "2026-10-19T13:45:00.000Z"
+    },
+    {
+     "title": "INCRYPTED",
+     "url": "https://incrypted.net/feed/",
+     "site": "https://incrypted.net",
+     "description": "Все о Блокчейн и Криптовалютах",
+     "lastPost": "2026-10-19T14:51:06.000Z"
+    },
+    {
+     "title": "Kraken Blog",
+     "url": "https://blog.kraken.com/feed/",
+     "site": "https://blog.kraken.com",
+     "description": "",
+     "lastPost": "2026-10-16T10:30:11.000Z"
+    },
+    {
+     "title": "NewsBTC",
+     "url": "https://www.newsbtc.com/feed/",
+     "site": "https://www.newsbtc.com",
+     "description": "Bitcoin & Cryptocurrency News Today",
+     "lastPost": "2026-10-19T21:00:00.000Z"
+    },
+    {
+     "title": "ZebPay",
+     "url": "https://zebpay.com/feed/",
+     "site": "https://zebpay.com",
+     "description": "Buy Bitcoin and Cryptocurrency at India’s Leading Exchange",
+     "lastPost": "2026-10-19T11:50:05.000Z"
+    },
+    {
+     "title": "Ethereum Foundation Blog",
+     "url": "https://blog.ethereum.org/feed.xml",
+     "site": "https://blog.ethereum.org",
+     "description": "",
+     "lastPost": "2026-10-16T00:00:00.000Z"
+    },
+    {
+     "title": "The Bad Crypto Podcast",
+     "url": "https://badcryptopodcast.com/feed/",
+     "site": "https://badcryptopodcast.com",
+     "description": "The World's Top Bitcoin Podcast covering Blockchain, Cryptocurrency, Ethereum, ICOs, Altcoins, Fintech and Digital…",
+     "lastPost": "2026-08-31T19:36:38.000Z"
+    },
+    {
+     "title": "TechCrunch: Cryptocurrency",
+     "url": "https://techcrunch.com/tag/cryptocurrency/feed",
+     "site": "https://techcrunch.com",
+     "description": "Startup and Technology News",
+     "lastPost": "2026-09-08T14:11:29.000Z"
+    }
+   ]
+  },
+  {
+   "id": "design",
+   "name": "Design",
+   "feeds": [
+    {
+     "title": "Smashing Magazine",
+     "url": "https://www.smashingmagazine.com/feed/",
+     "site": "https://www.smashingmagazine.com",
+     "description": "Web design and front-end development.",
+     "lastPost": "2026-10-16T10:00:00.000Z"
+    },
+    {
+     "title": "CSS-Tricks",
+     "url": "https://css-tricks.com/feed/",
+     "site": "https://css-tricks.com",
+     "description": "Tips, tricks, and techniques on CSS.",
+     "lastPost": "2026-08-31T15:12:19.000Z"
+    },
+    {
+     "title": "A List Apart",
+     "url": "https://alistapart.com/main/feed/",
+     "site": "https://alistapart.com",
+     "description": "Design, development, and meaning of web content.",
+     "lastPost": "2026-06-30T16:22:27.000Z"
+    },
+    {
+     "title": "Dezeen",
+     "url": "https://www.dezeen.com/feed/",
+     "site": "https://www.dezeen.com",
+     "description": "Architecture and design magazine.",
+     "lastPost": "2026-10-19T17:00:18.000Z"
+    },
+    {
+     "title": "Nielsen Norman Group",
+     "url": "https://www.nngroup.com/feed/rss/",
+     "site": "https://www.nngroup.com",
+     "description": "Evidence-based user experience research.",
+     "lastPost": "2026-10-16T17:00:00.000Z"
+    },
+    {
+     "title": "Colossal",
+     "url": "https://www.thisiscolossal.com/feed/",
+     "site": "https://www.thisiscolossal.com",
+     "description": "Art and visual culture.",
+     "lastPost": "2026-10-19T19:35:00.000Z"
+    },
+    {
+     "title": "Creative Bloq",
+     "url": "https://www.creativebloq.com/feed",
+     "site": "https://www.creativebloq.com",
+     "description": "Design and creativity news.",
+     "lastPost": "2026-10-19T23:00:00.000Z"
+    },
+    {
+     "title": "Sidebar",
+     "url": "https://sidebar.io/feed.xml",
+     "site": "https://sidebar.io",
+     "description": "The five best design links, every day.",
+     "lastPost": "2026-10-19T05:11:00.000Z"
+    },
+    {
+     "title": "Dezeen: Architecture",
+     "url": "https://www.dezeen.com/architecture/feed/",
+     "site": "https://www.dezeen.com",
+     "description": "architecture and design magazine",
+     "lastPost": "2026-10-19T17:00:18.000Z"
+    },
+    {
+     "title": "Ideal Home",
+     "url": "https://www.idealhome.co.uk/feed",
+     "site": "https://www.idealhome.co.uk",
+     "description": "All the latest news content from the Ideal Home team",
+     "lastPost": "2026-10-19T14:00:00.000Z"
+    },
+    {
+     "title": "Architectural Digest",
+     "url": "https://www.architecturaldigest.com/feed/rss",
+     "site": "https://www.architecturaldigest.com",
+     "description": "The latest from www.architecturaldigest.com",
+     "lastPost": "2026-10-19T22:13:28.000Z"
+    },
+    {
+     "title": "ArchDaily Global",
+     "url": "http://feeds.feedburner.com/Archdaily",
+     "site": "http://feeds.feedburner.com",
+     "description": "ArchDaily | Broadcasting Architecture Worldwide",
+     "lastPost": "2026-10-19T19:00:00.000Z"
+    },
+    {
+     "title": "Yanko Design",
+     "url": "http://feeds.feedburner.com/yankodesign",
+     "site": "http://feeds.feedburner.com",
+     "description": "Modern Industrial Design News",
+     "lastPost": "2026-10-20T00:30:02.000Z"
+    },
+    {
+     "title": "Design Milk: Interiors",
+     "url": "https://design-milk.com/category/interior-design/feed/",
+     "site": "https://design-milk.com",
+     "description": "Dedicated to modern design",
+     "lastPost": "2026-10-19T15:48:33.000Z"
+    },
+    {
+     "title": "UX Collective",
+     "url": "https://uxdesign.cc/feed",
+     "site": "https://uxdesign.cc",
+     "description": "We believe designers are thinkers as much as they are makers. https://linktr.ee/uxc - Medium",
+     "lastPost": "2026-10-19T21:39:27.000Z"
+    },
+    {
+     "title": "The Architect’s Newspaper",
+     "url": "https://archpaper.com/feed",
+     "site": "https://archpaper.com",
+     "description": "The most authoritative voice on architecture and design in the United States.",
+     "lastPost": "2026-10-19T20:38:44.000Z"
+    },
+    {
+     "title": "designboom: Architecture",
+     "url": "https://www.designboom.com/architecture/feed/",
+     "site": "https://www.designboom.com",
+     "description": "designboom magazine | your first source for architecture, design & art news",
+     "lastPost": "2026-10-19T18:10:11.000Z"
+    },
+    {
+     "title": "Trendir",
+     "url": "https://www.trendir.com/feed/",
+     "site": "https://www.trendir.com",
+     "description": "The Latest Trends in Modern House Design and Decorating",
+     "lastPost": "2026-10-19T17:00:00.000Z"
+    },
+    {
+     "title": "designboom: Design",
+     "url": "https://www.designboom.com/design/feed",
+     "site": "https://www.designboom.com",
+     "description": "designboom magazine | your first source for architecture, design & art news",
+     "lastPost": "2026-10-19T23:55:35.000Z"
+    },
+    {
+     "title": "Yatzer",
+     "url": "https://www.yatzer.com/rss.xml",
+     "site": "https://www.yatzer.com",
+     "description": "Since 2006, Yatzer has explored the many ways design shapes our lives,curating soulful interiors, visionary…",
+     "lastPost": "2026-10-17T10:35:35.000Z"
+    },
+    {
+     "title": "Design Milk: Architecture",
+     "url": "https://design-milk.com/category/architecture/feed/",
+     "site": "https://design-milk.com",
+     "description": "Dedicated to modern design",
+     "lastPost": "2026-10-16T20:42:24.000Z"
+    },
+    {
+     "title": "In My Own Style",
+     "url": "https://inmyownstyle.com/feed",
+     "site": "https://inmyownstyle.com",
+     "description": "Top Budget DIY Home Decorating Blog and Creative Lifestyle Ideas",
+     "lastPost": "2026-10-18T07:14:00.000Z"
+    },
+    {
+     "title": "The Inspired Room",
+     "url": "https://theinspiredroom.net/feed/",
+     "site": "https://theinspiredroom.net",
+     "description": "Voted Readers' Favorite Top Decorating Blog Better Homes and Gardens, Decorating Ideas, How to Organize, How to…",
+     "lastPost": "2026-10-14T20:24:37.000Z"
+    },
+    {
+     "title": "decor8",
+     "url": "https://www.decor8blog.com/blog?format=rss",
+     "site": "https://www.decor8blog.com",
+     "description": "",
+     "lastPost": "2026-09-22T13:23:48.000Z"
+    },
+    {
+     "title": "Home Designing",
+     "url": "http://www.home-designing.com/feed",
+     "site": "http://www.home-designing.com",
+     "description": "Inspirational Interior Design Ideas",
+     "lastPost": "2026-08-12T18:37:20.000Z"
+    },
+    {
+     "title": "Young House Love",
+     "url": "https://www.younghouselove.com/feed/",
+     "site": "https://www.younghouselove.com",
+     "description": "Home Decorating & DIY Tutorials",
+     "lastPost": "2026-09-16T21:36:10.000Z"
+    }
+   ]
+  },
+  {
+   "id": "gaming",
+   "name": "Gaming",
+   "feeds": [
+    {
+     "title": "Polygon",
+     "url": "https://www.polygon.com/rss/index.xml",
+     "site": "https://www.polygon.com",
+     "description": "Video games, entertainment, and culture.",
+     "lastPost": "2026-10-20T00:34:42.000Z"
+    },
+    {
+     "title": "Rock Paper Shotgun",
+     "url": "https://www.rockpapershotgun.com/feed",
+     "site": "https://www.rockpapershotgun.com",
+     "description": "PC gaming news and reviews.",
+     "lastPost": "2026-10-19T17:02:28.000Z"
+    },
+    {
+     "title": "Kotaku",
+     "url": "https://kotaku.com/rss",
+     "site": "https://kotaku.com",
+     "description": "Gaming news and culture.",
+     "lastPost": "2026-10-19T23:00:42.000Z"
+    },
+    {
+     "title": "IGN",
+     "url": "https://feeds.ign.com/ign/all",
+     "site": "https://www.ign.com",
+     "description": "Games, movies, and TV.",
+     "lastPost": "2026-10-19T23:30:00.000Z"
+    },
+    {
+     "title": "Eurogamer",
+     "url": "https://www.eurogamer.net/feed",
+     "site": "https://www.eurogamer.net",
+     "description": "Game news and reviews.",
+     "lastPost": "2026-10-19T19:54:06.000Z"
+    },
+    {
+     "title": "PC Gamer",
+     "url": "https://www.pcgamer.com/rss/",
+     "site": "https://www.pcgamer.com",
+     "description": "PC gaming news.",
+     "lastPost": "2026-10-19T23:33:09.000Z"
+    },
+    {
+     "title": "Game Developer",
+     "url": "https://www.gamedeveloper.com/rss.xml",
+     "site": "https://www.gamedeveloper.com",
+     "description": "The business and craft of making games.",
+     "lastPost": "2026-10-19T20:57:38.000Z"
+    },
+    {
+     "title": "Nintendo Life",
+     "url": "https://www.nintendolife.com/feeds/latest",
+     "site": "https://www.nintendolife.com",
+     "description": "Nintendo news and reviews.",
+     "lastPost": "2026-10-20T00:30:00.000Z"
+    },
+    {
+     "title": "Aftermath",
+     "url": "https://aftermath.site/rss",
+     "site": "https://aftermath.site",
+     "description": "Worker-owned video game journalism.",
+     "lastPost": "2026-10-19T20:02:25.000Z"
+    },
+    {
+     "title": "GamesIndustry.biz",
+     "url": "https://www.gamesindustry.biz/feed",
+     "site": "https://www.gamesindustry.biz",
+     "description": "The games business.",
+     "lastPost": "2026-10-19T19:12:21.000Z"
+    },
+    {
+     "title": "Eurogamer: Latest",
+     "url": "https://www.eurogamer.net/?format=rss",
+     "site": "https://www.eurogamer.net",
+     "description": "This is a feed of the latest articles from Eurogamer.net.",
+     "lastPost": "2026-10-19T19:54:06.000Z"
+    },
+    {
+     "title": "Chess.com News",
+     "url": "https://www.chess.com/rss/news",
+     "site": "https://www.chess.com",
+     "description": "The latest news from Chess.com.",
+     "lastPost": "2026-10-20T01:35:40.000Z"
+    },
+    {
+     "title": "GameSpot",
+     "url": "https://www.gamespot.com/feeds/mashup/",
+     "site": "https://www.gamespot.com",
+     "description": "GameSpot's Everything Feed! All the latest from GameSpot",
+     "lastPost": "2026-10-19T22:48:58.000Z"
+    },
+    {
+     "title": "The Escapist",
+     "url": "https://www.escapistmagazine.com/v2/feed/",
+     "site": "https://www.escapistmagazine.com",
+     "description": "Everything fun",
+     "lastPost": "2026-10-19T20:00:00.000Z"
+    },
+    {
+     "title": "Indie Games Plus",
+     "url": "https://indiegamesplus.com/feed",
+     "site": "https://indiegamesplus.com",
+     "description": "Creative, Personal, Passionate Digital Experiences",
+     "lastPost": "2026-10-19T13:00:00.000Z"
+    },
+    {
+     "title": "PlayStation.Blog",
+     "url": "http://feeds.feedburner.com/psblog",
+     "site": "http://feeds.feedburner.com",
+     "description": "Official PlayStation Blog for news and video updates on PlayStation, PS5, PS4, PS VR, PlayStation Plus and more.",
+     "lastPost": "2026-10-19T12:05:05.000Z"
+    },
+    {
+     "title": "Chess News",
+     "url": "https://en.chessbase.com/feed",
+     "site": "https://en.chessbase.com",
+     "description": "Chess News",
+     "lastPost": "2026-10-19T19:00:00.000Z"
+    },
+    {
+     "title": "TouchArcade",
+     "url": "https://toucharcade.com/community/forums/-/index.rss",
+     "site": "https://toucharcade.com",
+     "description": "iPhone and iPad Games and News",
+     "lastPost": "2026-10-19T13:02:04.000Z"
+    },
+    {
+     "title": "Lichess's Blog",
+     "url": "https://lichess.org/blog.atom",
+     "site": "https://lichess.org",
+     "description": "",
+     "lastPost": "2026-10-19T00:56:42.275Z"
+    },
+    {
+     "title": "The Guardian: Chess",
+     "url": "https://www.theguardian.com/sport/chess/rss",
+     "site": "https://www.theguardian.com",
+     "description": "Latest news and features from theguardian.com, the world's leading liberal voice",
+     "lastPost": "2026-10-16T07:00:55.000Z"
+    },
+    {
+     "title": "Steam News",
+     "url": "https://store.steampowered.com/feeds/news.xml",
+     "site": "https://store.steampowered.com",
+     "description": "All Steam news, all the time!",
+     "lastPost": "2026-10-16T19:38:00.000Z"
+    },
+    {
+     "title": "The Ancient Gaming Noob",
+     "url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+     "site": "http://feeds.feedburner.com",
+     "description": "Veni, Vidi, Scripsi",
+     "lastPost": "2026-10-19T15:15:33.000Z"
+    },
+    {
+     "title": "Chessable Blog",
+     "url": "https://www.chessable.com/blog/feed/",
+     "site": "https://www.chessable.com",
+     "description": "Chessable uses science to make learning chess better and in this blog we share that journey",
+     "lastPost": "2026-09-30T16:41:38.000Z"
+    },
+    {
+     "title": "The Week in Chess",
+     "url": "https://theweekinchess.com/twic-rss-feed",
+     "site": "https://theweekinchess.com",
+     "description": "Chess News from throughout the World",
+     "lastPost": "2026-10-03T15:02:00.000Z"
+    },
+    {
+     "title": "Better Chess",
+     "url": "https://betterchess.net/feed/",
+     "site": "https://betterchess.net",
+     "description": "A chess blog dedicated to help players improve their play and to promote the great game of chess.",
+     "lastPost": "2026-08-24T17:52:33.000Z"
+    }
+   ]
+  },
+  {
+   "id": "photography",
+   "name": "Photography",
+   "feeds": [
+    {
+     "title": "PetaPixel",
+     "url": "https://petapixel.com/feed/",
+     "site": "https://petapixel.com",
+     "description": "Photography news and gear.",
+     "lastPost": "2026-10-19T20:54:01.000Z"
+    },
+    {
+     "title": "DPReview",
+     "url": "https://www.dpreview.com/feeds/news.xml",
+     "site": "https://www.dpreview.com",
+     "description": "Cameras and photography reviews.",
+     "lastPost": "2026-10-20T00:00:00.000Z"
+    },
+    {
+     "title": "Light Stalking",
+     "url": "https://www.lightstalking.com/feed/",
+     "site": "https://www.lightstalking.com",
+     "description": "Illuminating Your Passion",
+     "lastPost": "2026-10-20T01:35:50.000Z"
+    },
+    {
+     "title": "Digital Photography School",
+     "url": "https://feeds.feedburner.com/DigitalPhotographySchool",
+     "site": "https://feeds.feedburner.com",
+     "description": "Digital Photography Tips and Tutorials",
+     "lastPost": "2026-10-14T21:09:07.000Z"
+    },
+    {
+     "title": "500px",
+     "url": "https://iso.500px.com/feed/",
+     "site": "https://iso.500px.com",
+     "description": "",
+     "lastPost": "2026-10-08T14:00:01.000Z"
+    },
+    {
+     "title": "Strobist",
+     "url": "http://feeds.feedburner.com/blogspot/WOBq",
+     "site": "http://feeds.feedburner.com",
+     "description": "Learn How to Light.",
+     "lastPost": "2026-08-25T17:58:43.000Z"
+    }
+   ]
+  },
+  {
+   "id": "film-tv",
+   "name": "Film & TV",
+   "feeds": [
+    {
+     "title": "IndieWire",
+     "url": "https://www.indiewire.com/feed/",
+     "site": "https://www.indiewire.com",
+     "description": "Film and TV news and criticism.",
+     "lastPost": "2026-10-20T01:00:00.000Z"
+    },
+    {
+     "title": "Variety",
+     "url": "https://variety.com/feed/",
+     "site": "https://variety.com",
+     "description": "Entertainment industry news.",
+     "lastPost": "2026-10-20T01:26:47.000Z"
+    },
+    {
+     "title": "Bleeding Cool: Movies",
+     "url": "https://www.bleedingcool.com/movies/feed/",
+     "site": "https://www.bleedingcool.com",
+     "description": "Comics, Movies, TV, Games",
+     "lastPost": "2026-10-19T22:47:10.000Z"
+    },
+    {
+     "title": "/Film",
+     "url": "https://feeds2.feedburner.com/slashfilm",
+     "site": "https://feeds2.feedburner.com",
+     "description": "Movie News and Reviews This feed is for non commercial use. Content Copyright Slashfilm.com.",
+     "lastPost": "2026-10-19T22:00:00.000Z"
+    },
+    {
+     "title": "ComingSoon.net",
+     "url": "https://www.comingsoon.net/feed",
+     "site": "https://www.comingsoon.net",
+     "description": "ComingSoon.net features the latest movie trailers and news, TV updates, video game reviews, anime releases, and more.",
+     "lastPost": "2026-10-19T22:36:44.000Z"
+    },
+    {
+     "title": "FirstShowing.net",
+     "url": "https://www.firstshowing.net/feed/",
+     "site": "https://www.firstshowing.net",
+     "description": "Connecting Hollywood with its Audience",
+     "lastPost": "2026-10-19T21:20:18.000Z"
+    },
+    {
+     "title": "TVLine",
+     "url": "https://tvline.com/feed/",
+     "site": "https://tvline.com",
+     "description": "Stay up to date with the latest TV news, previews, spoilers, casting updates, interviews, and more from TVLine.",
+     "lastPost": "2026-10-20T01:12:00.000Z"
+    },
+    {
+     "title": "Deadline",
+     "url": "https://deadline.com/feed/",
+     "site": "https://deadline.com",
+     "description": "Hollywood Entertainment Breaking News",
+     "lastPost": "2026-10-20T00:43:53.000Z"
+    },
+    {
+     "title": "Ain't It Cool News Feed",
+     "url": "https://www.aintitcool.com/node/feed/",
+     "site": "https://www.aintitcool.com",
+     "description": "The best in movie, TV, DVD and comic book news.",
+     "lastPost": "2026-10-17T03:52:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "name": "Food",
+   "feeds": [
+    {
+     "title": "Smitten Kitchen",
+     "url": "https://smittenkitchen.com/feed/",
+     "site": "https://smittenkitchen.com",
+     "description": "Fearless cooking from a tiny NYC kitchen.",
+     "lastPost": "2026-09-30T21:00:08.000Z"
+    },
+    {
+     "title": "Eater",
+     "url": "https://www.eater.com/rss/index.xml",
+     "site": "https://www.eater.com",
+     "description": "Food and restaurant news.",
+     "lastPost": "2026-10-19T20:34:19.000Z"
+    },
+    {
+     "title": "Bon Appétit",
+     "url": "https://www.bonappetit.com/feed/rss",
+     "site": "https://www.bonappetit.com",
+     "description": "Recipes and food culture.",
+     "lastPost": "2026-10-19T22:11:45.000Z"
+    },
+    {
+     "title": "NYT: Food",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
+     "site": "https://rss.nytimes.com",
+     "description": "",
+     "lastPost": "2026-10-19T17:29:30.000Z"
+    },
+    {
+     "title": "Kitchn",
+     "url": "https://www.thekitchn.com/main.rss",
+     "site": "https://www.thekitchn.com",
+     "description": "Inspiring cooks, nourishing homes",
+     "lastPost": "2026-10-19T20:00:00.000Z"
+    },
+    {
+     "title": "Budget Bytes",
+     "url": "http://budgetbytes.blogspot.com/feeds/posts/default",
+     "site": "http://budgetbytes.blogspot.com",
+     "description": "Delicious Recipes Designed for Small Budgets",
+     "lastPost": "2026-10-19T13:30:00.000Z"
+    },
+    {
+     "title": "How Sweet Eats",
+     "url": "https://www.howsweeteats.com/feed/",
+     "site": "https://www.howsweeteats.com",
+     "description": "For people who, like, totally love food.",
+     "lastPost": "2026-10-19T10:30:33.000Z"
+    },
+    {
+     "title": "Shutterbean",
+     "url": "http://www.shutterbean.com/feed/",
+     "site": "http://www.shutterbean.com",
+     "description": "food, photography & creative inspiration",
+     "lastPost": "2026-10-19T09:22:14.000Z"
+    },
+    {
+     "title": "Love and Lemons",
+     "url": "http://www.loveandlemons.com/feed/",
+     "site": "http://www.loveandlemons.com",
+     "description": "Healthy, whole food, vegan and vegetarian recipes",
+     "lastPost": "2026-10-06T13:54:22.000Z"
+    },
+    {
+     "title": "David Lebovitz",
+     "url": "https://www.davidlebovitz.com/feed/",
+     "site": "https://www.davidlebovitz.com",
+     "description": "Baking and cooking recipes for everyone",
+     "lastPost": "2026-10-18T13:50:12.000Z"
+    },
+    {
+     "title": "Love and Olive Oil",
+     "url": "https://www.loveandoliveoil.com/feed",
+     "site": "https://www.loveandoliveoil.com",
+     "description": "Eat to Live. Cook to Love.",
+     "lastPost": "2026-10-04T20:30:09.000Z"
+    }
+   ]
+  },
+  {
+   "id": "travel",
+   "name": "Travel",
+   "feeds": [
+    {
+     "title": "Atlas Obscura",
+     "url": "https://www.atlasobscura.com/feeds/latest",
+     "site": "https://www.atlasobscura.com",
+     "description": "The world's hidden wonders.",
+     "lastPost": "2026-10-19T20:00:00.000Z"
+    },
+    {
+     "title": "The Points Guy",
+     "url": "https://thepointsguy.com/feed/",
+     "site": "https://thepointsguy.com",
+     "description": "Travel rewards and airline news.",
+     "lastPost": "2026-10-19T22:00:57.000Z"
+    },
+    {
+     "title": "NYT: Travel",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+     "site": "https://rss.nytimes.com",
+     "description": "",
+     "lastPost": "2026-10-19T16:07:41.000Z"
+    },
+    {
+     "title": "The Points Guy: Articles",
+     "url": "http://feeds.feedburner.com/thepointsguy",
+     "site": "http://feeds.feedburner.com",
+     "description": "The Points Guy Articles Feed",
+     "lastPost": "2026-10-19T20:00:48.000Z"
+    },
+    {
+     "title": "The Guardian: Travel",
+     "url": "https://www.theguardian.com/uk/travel/rss",
+     "site": "https://www.theguardian.com",
+     "description": "Latest travel news and reviews on UK and world holidays, travel guides to global destinations, city breaks, hotels…",
+     "lastPost": "2026-10-19T14:22:06.000Z"
+    },
+    {
+     "title": "Everything Everywhere Travel",
+     "url": "http://feeds2.feedburner.com/EverythingEverywhere/",
+     "site": "http://feeds2.feedburner.com",
+     "description": "Learn Something New Every Day!",
+     "lastPost": "2026-10-19T06:36:08.000Z"
+    },
+    {
+     "title": "Adventure.com",
+     "url": "http://adventure.com/feed/",
+     "site": "http://adventure.com",
+     "description": "",
+     "lastPost": "2026-10-17T02:43:39.000Z"
+    },
+    {
+     "title": "Travel Dudes",
+     "url": "https://www.traveldudes.com/feed/",
+     "site": "https://www.traveldudes.com",
+     "description": "For Travelers, By Travelers!",
+     "lastPost": "2026-10-19T19:20:39.000Z"
+    },
+    {
+     "title": "Nomadic Matt",
+     "url": "https://www.nomadicmatt.com/travel-blog/feed/",
+     "site": "https://www.nomadicmatt.com",
+     "description": "Travel Better, Cheaper, Longer",
+     "lastPost": "2026-07-28T16:40:13.000Z"
+    }
+   ]
+  },
+  {
+   "id": "sports",
+   "name": "Sports",
+   "feeds": [
+    {
+     "title": "BBC Sport",
+     "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+     "site": "https://www.bbc.com/sport",
+     "description": "Sports news from the BBC.",
+     "lastPost": "2026-10-19T23:29:19.000Z"
+    },
+    {
+     "title": "ESPN",
+     "url": "https://www.espn.com/espn/rss/news",
+     "site": "https://www.espn.com",
+     "description": "Top sports headlines.",
+     "lastPost": "2026-10-20T02:38:52.000Z"
+    },
+    {
+     "title": "Indian Express: Sports",
+     "url": "https://indianexpress.com/section/sports/feed/",
+     "site": "https://indianexpress.com",
+     "description": "Latest News Today, Breaking News, India News, Top Headlines",
+     "lastPost": "2026-10-19T17:58:30.000Z"
+    },
+    {
+     "title": "Indian Express: Cricket",
+     "url": "https://indianexpress.com/section/sports/cricket/feed/",
+     "site": "https://indianexpress.com",
+     "description": "Latest News Today, Breaking News, India News, Top Headlines",
+     "lastPost": "2026-10-19T17:58:30.000Z"
+    },
+    {
+     "title": "Wisden",
+     "url": "https://www.wisden.com/feed",
+     "site": "https://www.wisden.com",
+     "description": "The independent voice of cricket",
+     "lastPost": "2026-10-19T14:30:00.000Z"
+    },
+    {
+     "title": "ESPNcricinfo",
+     "url": "http://www.espncricinfo.com/rss/content/story/feeds/0.xml",
+     "site": "http://www.espncricinfo.com",
+     "description": "Visit Cricinfo.com for up-to-the-minute cricket news, breaking cricket news, live cricket commentary, ball-by-ball…",
+     "lastPost": "2026-10-19T20:23:07.000Z"
+    },
+    {
+     "title": "The Hindu: Football",
+     "url": "https://www.thehindu.com/sport/football/feeder/default.rss",
+     "site": "https://www.thehindu.com",
+     "description": "Get Football News, Updates, Fixtures, Commentary &amp; Live Scores From Top Leagues Like The Premier League, La…",
+     "lastPost": "2026-10-19T17:55:06.000Z"
+    },
+    {
+     "title": "The Guardian: Football",
+     "url": "https://www.theguardian.com/football/rss",
+     "site": "https://www.theguardian.com",
+     "description": "Latest Football news, comment and analysis from the Guardian, the world's leading liberal voice",
+     "lastPost": "2026-10-19T21:05:46.000Z"
+    },
+    {
+     "title": "The Guardian: Sport",
+     "url": "https://www.theguardian.com/uk/sport/rss",
+     "site": "https://www.theguardian.com",
+     "description": "Latest Sport news, comment and analysis from the Guardian, the world's leading liberal voice",
+     "lastPost": "2026-10-19T21:05:46.000Z"
+    },
+    {
+     "title": "ESPN: Tennis",
+     "url": "https://www.espn.com/espn/rss/tennis/news",
+     "site": "https://www.espn.com",
+     "description": "Latest TENNIS news from www.espn.com",
+     "lastPost": "2026-10-19T15:44:33.000Z"
+    },
+    {
+     "title": "Times of India: Sports",
+     "url": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms",
+     "site": "https://timesofindia.indiatimes.com",
+     "description": "Get the latest sports news, live cricket scores and in-depth coverage of Cricket, Football, NBA, NFL, WWE, F1,…",
+     "lastPost": "2026-10-20T01:22:36.000Z"
+    },
+    {
+     "title": "Times of India: Cricket",
+     "url": "https://timesofindia.indiatimes.com/rssfeeds/54829575.cms",
+     "site": "https://timesofindia.indiatimes.com",
+     "description": "Latest and Breaking Cricket News: Check live cricket scores, schedule, results, scorecard, upcoming matches list and…",
+     "lastPost": "2026-10-19T14:07:01.000Z"
+    },
+    {
+     "title": "NDTV: Cricket",
+     "url": "http://feeds.feedburner.com/ndtvsports-cricket",
+     "site": "http://feeds.feedburner.com",
+     "description": "NDTV.com provides the latest information from and in-depth coverage of India and the world.",
+     "lastPost": "2026-10-19T18:30:05.000Z"
+    },
+    {
+     "title": "cricket.com.au",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv",
+     "site": "https://www.youtube.com",
+     "description": "",
+     "lastPost": "2026-10-19T22:18:28.000Z"
+    },
+    {
+     "title": "The Hindu: Tennis",
+     "url": "https://www.thehindu.com/sport/tennis/feeder/default.rss",
+     "site": "https://www.thehindu.com",
+     "description": "Find Tennis Results, Commentary, Highlights, Live Scores, Latest News From The ATP Tour, WTA Tour &amp; All The…",
+     "lastPost": "2026-10-17T18:31:52.000Z"
+    },
+    {
+     "title": "Soccer News",
+     "url": "https://www.soccernews.com/feed",
+     "site": "https://www.soccernews.com",
+     "description": "The Latest Soccer News from around the globe.",
+     "lastPost": "2026-10-19T23:32:53.000Z"
+    },
+    {
+     "title": "Perfect Tennis",
+     "url": "https://www.perfect-tennis.com/feed/",
+     "site": "https://www.perfect-tennis.com",
+     "description": "Tennis Blog",
+     "lastPost": "2026-10-18T12:44:36.000Z"
+    },
+    {
+     "title": "Sky News: Sports",
+     "url": "http://feeds.skynews.com/feeds/rss/sports.xml",
+     "site": "http://feeds.skynews.com",
+     "description": "The best sports coverage from around the world, covering: Football, Cricket, Golf, Rugby, WWE, Boxing, Tennis and…",
+     "lastPost": "2026-10-19T21:27:00.000Z"
+    },
+    {
+     "title": "NYT: Sports > Soccer",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml",
+     "site": "https://rss.nytimes.com",
+     "description": "",
+     "lastPost": "2026-08-18T18:53:07.000Z"
+    },
+    {
+     "title": "NYT: Sports > Tennis",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml",
+     "site": "https://rss.nytimes.com",
+     "description": "",
+     "lastPost": "2026-08-21T09:01:49.000Z"
+    }
+   ]
+  },
+  {
+   "id": "cars",
+   "name": "Cars",
+   "feeds": [
+    {
+     "title": "Electrek",
+     "url": "https://electrek.co/feed/",
+     "site": "https://electrek.co",
+     "description": "Electric vehicles and clean transport.",
+     "lastPost": "2026-10-19T22:57:37.000Z"
+    },
+    {
+     "title": "The Drive",
+     "url": "https://www.thedrive.com/feed",
+     "site": "https://www.thedrive.com",
+     "description": "Car news and reviews.",
+     "lastPost": "2026-10-19T21:09:40.000Z"
+    },
+    {
+     "title": "Jalopnik",
+     "url": "https://jalopnik.com/rss",
+     "site": "https://jalopnik.com",
+     "description": "Car culture and news.",
+     "lastPost": "2026-10-19T20:05:00.000Z"
+    },
+    {
+     "title": "Car and Driver",
+     "url": "https://www.caranddriver.com/rss/all.xml/",
+     "site": "https://www.caranddriver.com",
+     "description": "RSS feed for Latest Content - Car and Driver",
+     "lastPost": "2026-10-19T22:00:00.000Z"
+    },
+    {
+     "title": "TheTruthAboutCars",
+     "url": "https://www.thetruthaboutcars.com/feed/",
+     "site": "https://www.thetruthaboutcars.com",
+     "description": "TheTruthAboutCars RSS feed",
+     "lastPost": "2026-10-19T21:03:02.000Z"
+    },
+    {
+     "title": "BikeEXIF",
+     "url": "https://www.bikeexif.com/feed",
+     "site": "https://www.bikeexif.com",
+     "description": "Latest updates from BikeEXIF",
+     "lastPost": "2026-10-19T18:00:00.000Z"
+    },
+    {
+     "title": "Carscoops",
+     "url": "https://www.carscoops.com/feed/",
+     "site": "https://www.carscoops.com",
+     "description": "Breaking Car News, Scoops & Reviews",
+     "lastPost": "2026-10-20T00:04:37.000Z"
+    },
+    {
+     "title": "Bring a Trailer",
+     "url": "https://bringatrailer.com/feed/",
+     "site": "https://bringatrailer.com",
+     "description": "Barn finds, rally cars, and needles in the haystack.",
+     "lastPost": "2026-10-20T00:01:09.000Z"
+    },
+    {
+     "title": "BMWBLOG",
+     "url": "https://feeds.feedburner.com/BmwBlog",
+     "site": "https://feeds.feedburner.com",
+     "description": "Latest BMW News, Reviews and New Models",
+     "lastPost": "2026-10-19T18:49:59.000Z"
+    }
+   ]
+  },
+  {
+   "id": "diy",
+   "name": "DIY & making",
+   "feeds": [
+    {
+     "title": "Make:",
+     "url": "https://makezine.com/feed/",
+     "site": "https://makezine.com",
+     "description": "Projects and news for makers.",
+     "lastPost": "2026-10-19T15:00:00.000Z"
+    },
+    {
+     "title": "Hackaday",
+     "url": "https://hackaday.com/blog/feed/",
+     "site": "https://hackaday.com",
+     "description": "Fresh hacks every day.",
+     "lastPost": "2026-10-19T23:00:30.000Z"
+    },
+    {
+     "title": "A Beautiful Mess",
+     "url": "https://abeautifulmess.com/feed",
+     "site": "https://abeautifulmess.com",
+     "description": "Crafts, Home Décor, Recipes",
+     "lastPost": "2026-10-11T13:01:00.000Z"
+    },
+    {
+     "title": "How-To Geek",
+     "url": "https://www.howtogeek.com/feed/",
+     "site": "https://www.howtogeek.com",
+     "description": "We explain technology.",
+     "lastPost": "2026-10-20T00:00:15.000Z"
+    },
+    {
+     "title": "MakeUseOf",
+     "url": "https://www.makeuseof.com/feed/",
+     "site": "https://www.makeuseof.com",
+     "description": "MUO is your guide to modern tech.",
+     "lastPost": "2026-10-19T20:00:15.000Z"
+    },
+    {
+     "title": "Centsational Style",
+     "url": "https://centsationalstyle.com/feed/",
+     "site": "https://centsationalstyle.com",
+     "description": "Design, Decorating & DIY",
+     "lastPost": "2026-10-15T16:09:21.000Z"
+    },
+    {
+     "title": "IKEA Hackers",
+     "url": "https://www.ikeahackers.net/feed",
+     "site": "https://www.ikeahackers.net",
+     "description": "Clever ideas and hacks for your IKEA Furniture",
+     "lastPost": "2026-10-09T11:21:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": "style",
+   "name": "Style",
+   "feeds": [
+    {
+     "title": "ELLE: Fashion",
+     "url": "https://www.elle.com/rss/fashion.xml/",
+     "site": "https://www.elle.com",
+     "description": "RSS feed for Fashion - ELLE",
+     "lastPost": "2026-10-19T17:22:00.000Z"
+    },
+    {
+     "title": "Fashionista",
+     "url": "https://fashionista.com/.rss/excerpt/",
+     "site": "https://fashionista.com",
+     "description": "Fashionista Full",
+     "lastPost": "2026-10-19T16:00:00.000Z"
+    },
+    {
+     "title": "Who What Wear",
+     "url": "https://www.whowhatwear.com/rss",
+     "site": "https://www.whowhatwear.com",
+     "description": "All the latest content from the Who What Wear team",
+     "lastPost": "2026-10-19T21:38:50.000Z"
+    },
+    {
+     "title": "ELLE: Beauty",
+     "url": "https://www.elle.com/rss/beauty.xml/",
+     "site": "https://www.elle.com",
+     "description": "RSS feed for Beauty - ELLE",
+     "lastPost": "2026-10-19T18:32:51.000Z"
+    },
+    {
+     "title": "NYT: Style",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+     "site": "https://rss.nytimes.com",
+     "description": "",
+     "lastPost": "2026-10-20T01:21:55.000Z"
+    },
+    {
+     "title": "The Guardian: Fashion",
+     "url": "https://www.theguardian.com/fashion/rss",
+     "site": "https://www.theguardian.com",
+     "description": "The latest fashion news, advice and comment from the Guardian",
+     "lastPost": "2026-10-17T09:00:26.000Z"
+    },
+    {
+     "title": "Refinery29",
+     "url": "https://www.refinery29.com/fashion/rss.xml",
+     "site": "https://www.refinery29.com",
+     "description": "Refinery29",
+     "lastPost": "2026-10-13T22:01:14.000Z"
+    },
+    {
+     "title": "POPSUGAR Fashion",
+     "url": "https://www.popsugar.com/fashion/feed",
+     "site": "https://www.popsugar.com",
+     "description": "Top Fashion Stories",
+     "lastPost": "2026-10-16T19:10:03.000Z"
+    },
+    {
+     "title": "POPSUGAR Beauty",
+     "url": "https://www.popsugar.com/beauty/feed",
+     "site": "https://www.popsugar.com",
+     "description": "Top Beauty Stories",
+     "lastPost": "2026-10-15T20:00:02.000Z"
+    },
+    {
+     "title": "The Beauty Look Book",
+     "url": "https://thebeautylookbook.com/feed",
+     "site": "https://thebeautylookbook.com",
+     "description": "Beauty Blog, Reviews + Makeup Looks",
+     "lastPost": "2026-10-19T16:01:21.000Z"
+    }
+   ]
+  }
+ ]
+}
